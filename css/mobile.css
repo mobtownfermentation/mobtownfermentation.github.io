@@ -1,0 +1,660 @@
+/**Mobile Media Queries**/
+
+/**iphone 4, 4s, 5, 5s** PORTRAIT*/
+@media only screen and (min-width: 320px) and (max-width: 568px)and (orientation: portrait){
+	.wrap {
+		width:100vw;
+		min-width: 320px;
+	}
+	.section {
+		min-width: 320px;
+		height:auto;
+		padding: 0 0 5px 0;
+		margin-bottom:50px;
+	}
+	.inner {
+		padding:20px 0;
+    	margin:0 auto;
+    	width:60vw;
+    	min-width:300px;
+	}
+    .gallery{
+    	display:none;
+    }
+    .stretch{
+    	background-color:rgba(0,0,0,0);
+    	min-height:25px;
+    	max-height:25px;
+    }
+    .subMenu{
+    	display:none;
+    }
+    #mobileMenu{
+        display:block;
+        position:fixed;
+        top:0px;
+        width:100vw;
+        opacity:1;
+        min-height:60px;
+        z-index:10; 
+        list-style: none;
+        background: #e5e5e5;
+        padding:0;
+        margin:0; 
+    }
+    #mobileMenu li{
+    	display:inline-block;
+    	float:left;
+        width:50%;
+        height:28px;
+        font-size:22px;
+        padding:0;
+        margin:0 auto;
+        border-radius:0;
+        padding-top:3px;
+        -moz-box-shadow: inset 0 0 5px #000000;
+        -webkit-box-shadow: inset 0 0 5px #000000;
+        box-shadow: inset 0 0 5px #000000;
+    }
+    #socMedia{
+        display:block;
+        position:fixed;
+        bottom:0px;
+        left:0px;
+        width:100vw;
+        padding:0;
+        min-height:30px;
+        opacity:1;
+        list-style:none;
+    }
+    #socMedia li{
+        display:inline-block;
+        float:left;
+        width:50%;
+        height:40px;
+        font-size:20px;
+        padding:0;
+        margin:0 auto;
+        border-radius:0;
+        -moz-box-shadow: inset 0 0 5px #000000;
+        -webkit-box-shadow: inset 0 0 5px #000000;
+        box-shadow: inset 0 0 5px #000000;
+    }
+	#titleContainer{
+    	min-height:200px;
+    	min-width:300px;
+    	max-height:200px;
+    	max-width:300px;
+    	left:5px;
+    	bottom:55px;
+	}
+	#mobLogo{
+    	position:relative;
+    	float:left;
+    	margin-right:50px;
+    	height:50%;
+    	width:33.333%;
+    	background-image:url('images/moblogo.png');
+    	background-size: cover;
+    	opacity:0.6;
+	}
+	#boochtext{
+    	height:50%;
+    	width:66.666%;
+    	position:relative;
+    	float:left;
+    	background-image:url('images/boochtext.png');
+    	background-size: cover;
+    	opacity:0.6;
+	}
+	.Wild-Kombucha-Mobtown-Fermentation{
+    	background-image:url("images/bottles.png");
+    	background-size:cover;
+    	background-position:left;    
+    	height:100vh;
+    	margin:0;
+	}
+	#locations,#contactTable{
+        min-width:300px;
+        margin-bottom:70px;
+	}
+    #formContainer{
+        display:none;
+    }
+    #locations{
+      /*  min-height:auto;
+        max-height:100%;*/
+    }
+    .section .Kombucha-Locations{
+        height:auto;
+    }
+    #map,#mapAll{
+        display:none;
+    }
+    form input, form textarea{
+        width:80%;
+    }
+    .extraLink{
+    	display:none;
+    }
+    .footer{
+    	max-width:300px;
+    }
+}
+/**iphone 6, 6s, 6plus PORTRAIT**/
+@media only screen and (min-width: 375px) and (max-width: 677px)and (orientation: portrait) {
+	.wrap {
+		width:100vw;
+		min-width: 350px;
+	}
+	.section {
+		min-width: 350px;
+		height:auto;
+		padding: 0 0 5px 0;
+		margin-bottom:50px;
+	}
+	.inner {
+		padding:20px 0;
+    	margin:0 auto;
+    	width:60vw;
+    	min-width:325px;
+	}
+    .gallery{
+    	display:none;
+    }
+    .stretch{
+    	background-color:rgba(0,0,0,0);
+    	min-height:25px;
+    	max-height:25px;
+    }
+    .subMenu{
+    	display:none;
+    }
+    #mobileMenu{
+        display:block;
+        position:fixed;
+        top:0px;
+        width:100vw;
+        opacity:1;
+        min-height:60px;
+        z-index:10; 
+        list-style: none;
+        background: #e5e5e5;
+        padding:0;
+        margin:0; 
+    }
+    #mobileMenu li{
+    	display:inline-block;
+    	float:left;
+        width:50%;
+        height:28px;
+        font-size:22px;
+        padding:0;
+        margin:0 auto;
+        border-radius:0;
+        padding-top:3px;
+        -moz-box-shadow: inset 0 0 5px #000000;
+        -webkit-box-shadow: inset 0 0 5px #000000;
+        box-shadow: inset 0 0 5px #000000;
+    }
+    #socMedia{
+        display:block;
+        position:fixed;
+        bottom:0px;
+        left:0px;
+        width:100vw;
+        padding:0;
+        min-height:30px;
+        opacity:1;
+        list-style:none;
+    }
+    #socMedia li{
+        display:inline-block;
+        float:left;
+        width:50%;
+        height:40px;
+        font-size:20px;
+        padding:0;
+        margin:0 auto;
+        border-radius:0;
+        -moz-box-shadow: inset 0 0 5px #000000;
+        -webkit-box-shadow: inset 0 0 5px #000000;
+        box-shadow: inset 0 0 5px #000000;
+    }
+	#titleContainer{
+    	min-height:220px;
+    	min-width:330px;
+    	max-height:220px;
+    	max-width:330px;
+    	left:5px;
+    	bottom:55px;
+	}
+	#mobLogo{
+    	position:relative;
+    	float:left;
+    	margin-right:50px;
+    	height:50%;
+    	width:33.333%;
+    	background-image:url('images/moblogo.png');
+    	background-size: cover;
+    	opacity:0.6;
+	}
+	#boochtext{
+    	height:50%;
+    	width:66.666%;
+    	position:relative;
+    	float:left;
+    	background-image:url('images/boochtext.png');
+    	background-size: cover;
+    	opacity:0.6;
+	}
+	.Wild-Kombucha-Mobtown-Fermentation{
+    	background-image:url("images/bottles.png");
+    	background-size:cover;
+    	background-position:left;    
+    	height:100vh;
+    	margin:0;
+	}
+	#locations,#contactTable,#formContainer{
+        min-width:325px;
+        margin-bottom:70px;
+	}
+    #formContainer{
+        display:none;
+    }
+    #locations{
+      /*  min-height:auto;
+        max-height:100%;*/
+    }
+    .section .Kombucha-Locations{
+        height:auto;
+    }
+    #map,#mapAll{
+        display:none;
+    }
+    .extraLink{
+    	display:none;
+    }
+    .footer{
+        max-width:275px;
+        min-width:275px;
+    }
+    .footer .inner{
+    	max-width:275px;
+        min-width:275px;
+    }
+}
+/**iphone 4, 4s, 5, 5s LANDSCAPE**/
+@media only screen and (min-width: 320px) and (max-width: 568px)and (orientation: landscape) {
+    	.wrap {
+		width:100vw;
+		min-width: 450px;
+	}
+	.section {
+		min-width: 450px;
+		height:auto;
+		padding: 0 0 5px 0;
+		margin-bottom:50px;
+	}
+	.inner {
+		padding:20px 0;
+    	margin:0 auto;
+    	width:60vw;
+    	min-width:450px;
+	}
+    .gallery{
+    	display:none;
+    }
+    .stretch{
+    	background-color:rgba(0,0,0,0);
+    	min-height:25px;
+    	max-height:25px;
+    }
+    .subMenu{
+    	display:none;
+    }
+    #mobileMenu{
+        display:block;
+        position:fixed;
+        top:0px;
+        width:100vw;
+        opacity:1;
+        min-height:60px;
+        z-index:10; 
+        list-style: none;
+        background: #e5e5e5;
+        padding:0;
+        margin:0; 
+    }
+    #mobileMenu li{
+    	display:inline-block;
+    	float:left;
+        width:50%;
+        height:28px;
+        font-size:22px;
+        padding:0;
+        margin:0 auto;
+        border-radius:0;
+        padding-top:3px;
+        -moz-box-shadow: inset 0 0 5px #000000;
+        -webkit-box-shadow: inset 0 0 5px #000000;
+        box-shadow: inset 0 0 5px #000000;
+    }
+    #socMedia{
+        display:block;
+        position:fixed;
+        bottom:0px;
+        left:0px;
+        width:100vw;
+        padding:0;
+        min-height:30px;
+        opacity:1;
+        list-style:none;
+    }
+    #socMedia li{
+        display:inline-block;
+        float:left;
+        width:50%;
+        height:40px;
+        font-size:20px;
+        padding:0;
+        margin:0 auto;
+        border-radius:0;
+        -moz-box-shadow: inset 0 0 5px #000000;
+        -webkit-box-shadow: inset 0 0 5px #000000;
+        box-shadow: inset 0 0 5px #000000;
+    }
+	#titleContainer{
+    	min-height:220px;
+    	min-width:330px;
+    	max-height:220px;
+    	max-width:330px;
+    	left:5px;
+    	bottom:55px;
+	}
+	#mobLogo{
+    	position:relative;
+    	float:left;
+    	margin-right:50px;
+    	height:50%;
+    	width:33.333%;
+    	background-image:url('images/moblogo.png');
+    	background-size: cover;
+    	opacity:0.6;
+	}
+	#boochtext{
+    	height:50%;
+    	width:66.666%;
+    	position:relative;
+    	float:left;
+    	background-image:url('images/boochtext.png');
+    	background-size: cover;
+    	opacity:0.6;
+	}
+	.Wild-Kombucha-Mobtown-Fermentation{
+    	background-image:url("images/bottles.png");
+    	background-size:cover;
+    	background-position:left;    
+    	height:100vh;
+    	margin:0;
+	}
+	#locations,#contactTable{
+        min-width:450px;
+        margin-bottom:70px;
+	}
+    #formContainer{
+        display:none;
+    }
+    #locations{
+      /*  min-height:auto;
+        max-height:100%;*/
+    }
+    .section .Kombucha-Locations{
+        height:auto;
+    }
+    #map,#mapAll{
+        display:none;
+    }
+    .extraLink{
+    	display:none;
+    }
+    .footer{
+        max-width:275px;
+        min-width:275px;
+    }
+    .footer .inner{
+    	max-width:275px;
+        min-width:275px;
+    }
+}
+
+/**iphone 6 LANDSCAPE**/
+@media only screen and (min-width: 375px) and (max-width: 677px)and (orientation: landscape) {
+    .wrap {
+		width:100vw;
+		min-width: 677px;
+	}
+	.section {
+		min-width: 600px;
+		height:auto;
+		padding: 0 0 5px 0;
+		margin-bottom:50px;
+	}
+	.inner {
+		padding:20px 0;
+    	margin:0 auto;
+    	width:60vw;
+    	min-width:600px;
+	}
+    .gallery{
+    	display:none;
+    }
+    .stretch{
+    	background-color:rgba(0,0,0,0);
+    	min-height:25px;
+    	max-height:25px;
+    }
+    .subMenu{
+    	min-height:50px;
+        max-height:50px;
+    }
+    .subNavBtn{
+        min-width:110px;
+        max-width:110px;
+        margin:0;
+        padding:15px 8px 0 8px;
+    }
+    .subMenu a{
+        font-size:16px;
+    }
+    .round{
+        min-height:50px;
+        max-height:50px;
+        min-width:50px;
+        max-width:50px;
+    }
+    .Wild-Kombucha-Mobtown-Fermentation{
+    	background-image:url("images/bottles.png");
+    	background-size:cover;
+    	background-position:left;    
+    	height:320px;
+    	margin:0;
+	}
+    .subNavBtn:hover, .toTop:hover{
+        background-color:rgba(255, 216, 0,0.0);
+    }
+    #contactTable{
+        min-width:600px;
+        margin-bottom:70px;
+        text-align:center;
+	}
+    #formContainer{
+        display:none;
+    }
+}
+
+/**iphone 6plus LANDSCAPE**/
+@media only screen and (min-width: 414px) and (max-width: 736px)and (orientation: landscape) {
+    .wrap {
+		width:100vw;
+		min-width: 736px;
+	}
+	.section {
+		min-width: 700px;
+		height:auto;
+		padding: 0 0 5px 0;
+		margin-bottom:50px;
+	}
+	.inner {
+		padding:20px 0;
+    	margin:0 auto;
+    	width:60vw;
+    	min-width:700px;
+	}
+    .gallery{
+    	display:none;
+    }
+    .stretch{
+    	background-color:rgba(0,0,0,0);
+    	min-height:25px;
+    	max-height:25px;
+    }
+    .subMenu{
+    	min-height:50px;
+        max-height:50px;
+    }
+    .subNavBtn{
+        min-width:110px;
+        max-width:110px;
+        margin:0;
+        padding:15px 8px 0 8px;
+    }
+    .subMenu a{
+        font-size:16px;
+    }
+    .round{
+        min-height:50px;
+        max-height:50px;
+        min-width:50px;
+        max-width:50px;
+    }
+    .Wild-Kombucha-Mobtown-Fermentation{
+    	background-image:url("images/bottles.png");
+    	background-size:cover;
+    	background-position:left;    
+    	height:360px;
+    	margin:0;
+	}
+    .subNavBtn:hover, .toTop:hover{
+        background-color:rgba(255, 216, 0,0.0);
+    }
+    #contactTable{
+        min-width:700px;
+        margin-bottom:70px;
+        text-align:center;
+	}
+    #formContainer{
+        display:none;
+    }
+}
+/**ipad PORTRAIT**/
+@media only screen and (min-width: 768px) and (max-width: 1024px)and (orientation: portrait) {
+    .wrap {
+		width:100vw;
+		min-width: 736px;
+	}
+	.section {
+		min-width: 700px;
+		height:auto;
+		padding: 0 0 5px 0;
+		margin-bottom:50px;
+	}
+	.inner {
+		padding:20px 0;
+    	margin:0 auto;
+    	width:60vw;
+    	min-width:700px;
+	}
+    .gallery{
+    	display:none;
+    }
+    .stretch{
+    	background-color:rgba(0,0,0,0);
+    	min-height:25px;
+    	max-height:25px;
+    }
+    .subMenu{
+    	min-height:50px;
+        max-height:50px;
+    }
+    .subNavBtn{
+        min-width:110px;
+        max-width:110px;
+        margin:0;
+        padding:15px 8px 0 8px;
+    }
+    .subMenu a{
+        font-size:16px;
+    }
+    .round{
+        min-height:50px;
+        max-height:50px;
+        min-width:50px;
+        max-width:50px;
+    }
+    #titleContainer{
+    	min-height:440px;
+    	min-width:660px;
+    	max-height:440px;
+    	max-width:660px;
+    	left:5px;
+    	bottom:5px;
+	}
+	#mobLogo{
+    	position:relative;
+    	float:left;
+    	margin-right:50px;
+    	height:50%;
+    	width:33.333%;
+    	background-image:url('images/moblogo.png');
+    	background-size: cover;
+    	opacity:0.6;
+	}
+	#boochtext{
+    	height:50%;
+    	width:66.666%;
+    	position:relative;
+    	float:left;
+    	background-image:url('images/boochtext.png');
+    	background-size: cover;
+    	opacity:0.6;
+	}
+    .Wild-Kombucha-Mobtown-Fermentation{
+    	background-image:url("images/bottles.png");
+    	background-size:cover;
+    	background-position:left;    
+    	height:560px;
+    	margin:0;
+	}
+    .subNavBtn:hover, .toTop:hover{
+        background-color:rgba(255, 216, 0,0.0);
+    }
+    #contactTable{
+        min-width:700px;
+        margin-bottom:70px;
+        text-align:center;
+	}
+    #formContainer{
+        display:none;
+    }
+}
+/**ipad LANDSCAPE**/
+@media only screen and (min-width: 768px) and (max-width: 1024px)and (orientation: landscape) {
+    .subNavBtn:hover, .toTop:hover{
+        background-color:rgba(255, 216, 0,0.0);
+    }
+    .subNavBtn{
+        margin:5px;
+        padding:20px 8px 0 8px;
+    }
+}
