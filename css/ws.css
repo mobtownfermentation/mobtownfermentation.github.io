@@ -114,16 +114,17 @@ body {
 }
 .subNavBtn {
 	display: block;
-	height:50px;
+	height:70px;
     width: 12.5vw;
-    min-width:140px;
+    min-width:150px;
     float:left;
+    padding: 20px;
     text-align: center;
     background:#e5e5e5;
-    padding:20px 20px 0px 20px;
+    /*padding:20px 20px 0px 20px;*/
     opacity:1;
-    border-top-left-radius: 75%;
-    border-bottom-right-radius: 75%;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     border-top-right-radius:2px;
     border-bottom-left-radius:2px;
 }
@@ -131,10 +132,12 @@ body {
     text-decoration: none;
     color:black;
     font-family:'Rye','times',serif;
-    font-size:20px;
+    font-size:18px;
     margin:0px 10px;
     text-align:center;
     cursor:pointer;
+    height:100%;
+    vertical-align: middle;
 }
 .round{
     height:70px;
@@ -198,6 +201,7 @@ a#Contact-Mobtown.subNavBtn.active {
     background-image:url('images/moblogo.png');
     background-size: cover;
     opacity:0.6;
+    display:none;
 }
 #boochtext{
     position:relative;
@@ -207,11 +211,12 @@ a#Contact-Mobtown.subNavBtn.active {
     background-image:url('images/boochtext.png');
     background-size:cover;
     opacity:0.5;
+    display:none;
 }
 .Wild-Kombucha-Mobtown-Fermentation{
-    background-image:url("images/bg.png");
+    background-image:url("images/newbg.png");
     background-size:cover;
-    background-position:left;    
+    background-position:top;    
     height:100vh;
     margin-top:-90px;
 }
@@ -245,6 +250,9 @@ a#Contact-Mobtown.subNavBtn.active {
 }
 .flavor:hover{
 	cursor:pointer;
+}
+.Wild-Kombucha{
+	margin-top:50px;
 }
 .Wild-Kombucha span img{
 	display:none;
@@ -313,7 +321,7 @@ a#Contact-Mobtown.subNavBtn.active {
     background-position: center;
 }
 .pic1{ 
-    background-image: url('images/storefront.png');
+    background-image: url('images/bg.png');
     background-size: cover;
     background-position: center;
 }
@@ -432,6 +440,7 @@ a#Contact-Mobtown.subNavBtn.active {
 .leaflet-popup{
     opacity:0.95;
     font-family:"Bitter",serif;
+    text-align:center;
 }
 #mapAll{
 	height:auto;
@@ -456,6 +465,7 @@ a#Contact-Mobtown.subNavBtn.active {
     margin:0;
     padding:1em 0 1em 0;
     cursor: default;
+    height:inherit;
 }
 #locations h3{
     font-size:1.5em;
@@ -472,6 +482,26 @@ a#Contact-Mobtown.subNavBtn.active {
 #locations p{
     font-size:1.1em;
     margin-bottom:0;
+}
+.liPic{
+	position:relative;
+	float:left;
+	width:30%;
+	height:120px;
+	background-size:100% auto;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 5px;
+}
+.liInfo{
+	position:relative;
+	float:left;
+	width:70%;
+}
+.liContainer{
+	display:inline-block;
+	width:95%;
+	margin:auto 2.5%;
 }
 #locations .even{
     background-color:rgba(255,255,255,0.15);

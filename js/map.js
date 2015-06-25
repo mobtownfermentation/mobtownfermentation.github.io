@@ -130,6 +130,7 @@ var cluster = new L.MarkerClusterGroup({
     spiderfyOnMaxZoom:true
 }).addTo(map);
 
+var selected = L.featureGroup().addTo(map).addTo(cluster);
 var locations = omnivore.geojson('map_data/locations.json', null, L.mapbox.featureLayer());
 locations.on("ready", function(){
     map.fitBounds(locations.getBounds());
@@ -141,9 +142,13 @@ locations.on("ready", function(){
         var city = layer.feature.properties.city;
         var phone = layer.feature.properties.phone;
         var link = layer.feature.properties.link;
-        var entry = "<li id='p"+ptCt+"' class='"+cl+"'><h3><a href='"+link+"' target='_blank'>"+name+"</a></h3>";
-        entry += "<p>"+street+"</p><p>"+city+"</p><p>"+phone+"</p></li>"
+        var pic = layer.feature.properties.pic;
+        var entry = "<li id='p"+ptCt+"' class='"+cl+"'><div class='liContainer'><div class='liPic'></div>";
+        entry += "<div class='liInfo'><h3><a href='"+link+"' target='_blank'>"+name+"</a></h3>";
+        entry += "<p>"+street+"</p><p>"+city+"</p><p>"+phone+"</p></div></div></li>"
         $("#locations").append(entry);
+
+        $("#p"+ptCt+" .liPic").css("background-image","url('"+pic+"')");
 
         var marker = L.marker([layer.feature.geometry.coordinates[1],layer.feature.geometry.coordinates[0]])
             .setIcon(L.divIcon({
@@ -163,6 +168,8 @@ locations.on("ready", function(){
         if (cl=="even"){cl="odd"}else{cl="even"}
     });
 });
+
+
 
 $("#mapAll").on("click", function(){
     map.fitBounds(locations.getBounds());
