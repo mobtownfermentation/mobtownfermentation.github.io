@@ -306,17 +306,17 @@ a#Contact-Mobtown.subNavBtn.active {
 }
 /**pics**/
 .adam{ 
-    background-image: url('images/adam1.png');
+    background-image: url('images/adam.png');
     background-size: cover;
     background-position: center;
 }
 .sergio{ 
-    background-image: url('images/sergio1.png');
+    background-image: url('images/sergio.png');
     background-size: cover;
     background-position: center;
 }
 .sid{ 
-    background-image: url('images/sid1.png');
+    background-image: url('images/sid.png');
     background-size: cover;
     background-position: center;
 }
