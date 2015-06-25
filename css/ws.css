@@ -148,7 +148,7 @@ body {
 }
 .subNavBtn:hover, .toTop:hover{
     background-color:rgba(255, 216, 0,0.45);
-}/*
+}
 a#Wild-Kombucha-Mobtown-Fermentation.active {
     background-color:rgba(152,0,15,0.45);
 }
@@ -163,7 +163,7 @@ a#Kombucha-Locations.subNavBtn.active{
 }
 a#Contact-Mobtown.subNavBtn.active {
     background-color:rgba(1, 111, 18, 0.45);
-}*/
+}
 .toTop{
     background-image: url('images/up_black.png');
     background-repeat:no-repeat;
