@@ -97,6 +97,7 @@
     	background-image:url('images/moblogo.png');
     	background-size: cover;
     	opacity:0.6;
+    	display:block;
 	}
 	#boochtext{
     	height:50%;
@@ -106,6 +107,7 @@
     	background-image:url('images/boochtext.png');
     	background-size: cover;
     	opacity:0.6;
+    	display:block;
 	}
 	.Wild-Kombucha-Mobtown-Fermentation{
     	background-image:url("images/bg.png");
@@ -238,6 +240,7 @@
     	background-image:url('images/moblogo.png');
     	background-size: cover;
     	opacity:0.6;
+    	display:block;
 	}
 	#boochtext{
     	height:50%;
@@ -247,6 +250,7 @@
     	background-image:url('images/boochtext.png');
     	background-size: cover;
     	opacity:0.6;
+    	display:block;
 	}
 	.Wild-Kombucha-Mobtown-Fermentation{
     	background-image:url("images/bg.png");
@@ -381,6 +385,7 @@
     	background-image:url('images/moblogo.png');
     	background-size: cover;
     	opacity:0.6;
+    	display:block;
 	}
 	#boochtext{
     	height:50%;
@@ -390,6 +395,7 @@
     	background-image:url('images/boochtext.png');
     	background-size: cover;
     	opacity:0.6;
+    	display:block;
 	}
 	.Wild-Kombucha-Mobtown-Fermentation{
     	background-image:url("images/bg.png");
@@ -619,6 +625,7 @@
     	background-image:url('images/moblogo.png');
     	background-size: cover;
     	opacity:0.6;
+    	display:block;
 	}
 	#boochtext{
     	height:50%;
@@ -628,6 +635,7 @@
     	background-image:url('images/boochtext.png');
     	background-size: cover;
     	opacity:0.6;
+    	display:block;
 	}
     .Wild-Kombucha-Mobtown-Fermentation{
     	background-image:url("images/bg.png");
