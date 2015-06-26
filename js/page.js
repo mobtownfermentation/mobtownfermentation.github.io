@@ -42,6 +42,7 @@ $("#slider").on("mouseout touchend", function(){
 },5000);
 });
 
+
 //Timeline
 var timelineHeight = $(".gallery").height();
 var timeMargin = 0;
@@ -68,6 +69,21 @@ $("#timeline").on("mouseout touchend", function(){
         mv = 0;
     }
 },5000);
+});
+
+$(".timeBtn").on('click', function(){
+	var hist = $(this).parent(".time").children(".pic").attr('class').split(" ")[2];
+	console.log(hist)
+	var mv = hist.slice(-1);
+	if ($(this).hasClass("timeDown")){
+		var dir = mv;
+	}else{
+		var dir = mv-2;
+	}
+	console.log(dir)
+	timeMargin = (timelineHeight*dir);
+    var dist = "-"+timeMargin+"px";
+    $("#timeline").animate({marginTop:dist},1000);
 });
 
 //FillDate
