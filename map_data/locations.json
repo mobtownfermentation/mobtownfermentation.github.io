@@ -216,24 +216,6 @@
         "link": "http://www.yelp.com/biz/harmony-bakery-baltimore",
         "pic": "http://i.imgur.com/6kOKjHU.jpg"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "test",
-        "street": "test",
-        "city": "test",
-        "phone": "test",
-        "link": "test",
-        "pic": "test"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.48982048034668,
-          39.384600425202414
-        ]
-      }
     }
   ]
 }
