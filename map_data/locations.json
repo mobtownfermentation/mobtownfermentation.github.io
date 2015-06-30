@@ -157,7 +157,7 @@
       "properties": {
         "title": "Luigi's Italian Deli",
         "street": "846 W 36th St",
-        "city": "Baltimore MD 21211",
+        "city": "Baltimore, MD 21211",
         "phone": "(443) 438-4195",
         "link": "https://www.luigisdeli.net",
         "pic": "http://i.imgur.com/ArxuJeV.jpg"
@@ -215,6 +215,24 @@
         "phone": "(410) 235-3870",
         "link": "http://www.yelp.com/biz/harmony-bakery-baltimore",
         "pic": "http://i.imgur.com/sx6xPNk.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "c",
+        "street": "c",
+        "city": "c",
+        "phone": "c",
+        "link": "c",
+        "pic": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59539794921875,
+          41.72751160228592
+        ]
       }
     }
   ]
