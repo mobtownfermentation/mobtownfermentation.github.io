@@ -41,6 +41,15 @@ $("#slider").on("mouseout touchend", function(){
     }
 },5000);
 });
+$(".sliderBtn").on('click', function(){
+	if ($(this).hasClass("sliderRight")){
+		var sliderMargin = sliderWidth/2;
+	}else{
+		var sliderMargin = 0;
+	}
+    var dist = "-"+sliderMargin+"px";
+    $("#slider").animate({marginLeft:dist},1000);
+});
 
 
 //Timeline
@@ -87,14 +96,12 @@ $(".timeBtn").on('click', function(){
 
 $(".timeBtn").on('click', function(){
 	var hist = $(this).parent(".time").children(".pic").attr('class').split(" ")[2];
-	console.log(hist)
 	var mv = hist.slice(-1);
 	if ($(this).hasClass("timeDown")){
 		var dir = mv;
 	}else{
 		var dir = mv-2;
 	}
-	console.log(dir)
 	timeMargin = (timelineHeight*dir);
     var dist = "-"+timeMargin+"px";
     $("#timeline").animate({marginTop:dist},1000);

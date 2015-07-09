@@ -248,6 +248,44 @@ a#Contact-Mobtown.subNavBtn.active {
 #slider li{
     display:inline-block
 }
+#slider .sliderBtn{
+	position:absolute;
+	height:40px;
+	border-radius:100%;
+	width:40px;
+	background-color:white;
+	opacity:0.6;
+	z-index:100;
+	bottom:0;
+}
+#slider .sliderBtn:hover{
+	opacity:0.8;
+	cursor:pointer;
+}
+.sliderLeft{
+	right:0;
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+	background-image:url('images/up_black.png');
+	background-size:50% 50%;
+	background-position:center;
+	background-repeat: no-repeat;
+}
+.sliderRight{
+	left:0;
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+	background-image:url('images/up_black.png');
+	background-size:50% 50%;
+	background-position:center;
+	background-repeat: no-repeat;
+}
 .flavor:hover{
 	cursor:pointer;
 }
@@ -353,18 +391,18 @@ a#Contact-Mobtown.subNavBtn.active {
     background-position: center;
 }
 .pic1{ 
-    background-image: url('images/bg.png');
+    background-image: url('images/bottleline.png');
     background-size: cover;
     background-position: center;
 }
 .pic2{ 
-    background-image: url('images/empties.png');
+    background-image: url('images/bottlecap.png');
     background-size: cover;
     background-position: center;
 }
 .pic3{ 
-    background-image: url('images/kitchen.png');
-    background-size: cover;
+    background-image: url('images/facilities.png');
+    background-size: 100% 100%;
     background-position: center;
 }
 .pic4{ 
