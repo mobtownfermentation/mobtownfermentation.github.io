@@ -213,6 +213,7 @@ $(window).on('resize', function () {
 });
 
 //flavor hover
+/*
 $(".flavor").on("mouseover", function() {
 	var img = $(this).children('img');
 	img.show();
@@ -221,6 +222,6 @@ $(".flavor").on("mouseout", function(){
 	var img = $(this).children('img');
 	img.hide();
 });
-
+*/
 
 });//pageReady
