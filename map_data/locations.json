@@ -238,35 +238,54 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ""
+        "title": "Eddies Mount Vernon",
+        "street": "7 West Eager St",
+        "city": "Baltimore, MD 21201",
+        "phone": "(410) 727-0154",
+        "link": "http://www.eddiesofmtvernon.com/",
+        "pic": "http://i.imgur.com/WQqYOzI.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.62594795227051,
-          39.31162270179303
+          -76.616704,
+          39.300735
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Sobo Cafe",
+        "pic": "http://i.imgur.com/6gAomqU.jpg",
+        "street": "6 W Cross St",
+        "city": "Baltimore, MD 21230",
+        "phone": "(410) 752-1518",
+        "link": "http://sobocafe.net/"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.629638671875,
-          39.31145668107426
+          -76.6148846,
+          39.2769397
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "On The Hill",
+        "street": "1431 John St",
+        "city": "Baltimore, MD 21217",
+        "phone": "(410) 225-9667",
+        "link": "http://onthehillcafe.com/",
+        "pic": "http://i.imgur.com/W0afBoF.png"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.628737449646,
-          39.310925412127155
+          -76.6237562,
+          39.308443
         ]
       }
     }
