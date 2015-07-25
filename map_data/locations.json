@@ -24,24 +24,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.500051,
-          39.454467
-        ]
-      },
-      "properties": {
-        "title": "Jukai Juice",
-        "street": "12056 Glen Arm Rd",
-        "city": "Glen Arm, MD 21057",
-        "phone": "(410) 913-2599",
-        "link": "http://www.jukaijuiceco.com/",
-        "pic": "http://i.imgur.com/orkyyc8.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -76.634077,
           39.331271
         ]
@@ -53,24 +35,6 @@
         "phone": "(301) 221-6196",
         "link": "https://www.facebook.com/pages/Hashtagfoodies/1541645232773590?fref=ts",
         "pic": "http://i.imgur.com/N69BgmQ.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.639547,
-          39.327388
-        ]
-      },
-      "properties": {
-        "title": "Birroteca",
-        "street": "1520 Clipper Rd",
-        "city": "Baltimore, MD 21211",
-        "phone": "(443) 708-1935",
-        "link": "http://bmorebirroteca.com/",
-        "pic": "http://i.imgur.com/v0ajs7p.png"
       }
     },
     {
