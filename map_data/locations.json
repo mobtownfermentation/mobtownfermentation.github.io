@@ -252,6 +252,78 @@
           39.308443
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Garden Plate",
+        "street": "615 N. Wolfe Street 9th Floor",
+        "city": "Baltimore, MD 21205",
+        "pic": "http://i.imgur.com/fsnxszJ.jpg",
+        "link": "http://www.zuppler.com/restaurants/gardenplate",
+        "phone": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60311698913574,
+          39.305745328509616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Charmingtons",
+        "link": "http://charmingtons.com/",
+        "street": "2601 N. Howard Street",
+        "city": "Baltimore, MD 21218",
+        "phone": "(410) 235-5004",
+        "pic": "http://i.imgur.com/VpJPvsn.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59899711608887,
+          39.30375288655931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zia's Cafe",
+        "street": "13 Allegheny Ave",
+        "link": "http://www.ziascafe.com/#about",
+        "city": "Towson, MD 21204",
+        "phone": "(410) 296-0799",
+        "pic": "http://i.imgur.com/k8IJUEf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60303115844727,
+          39.301693970290316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hamilton/Lauraville Farmers Market",
+        "pic": "http://i.imgur.com/qRZkQP2.jpg",
+        "link": "http://bmoremainstreet.com/event/tuesday-market-lauraville/",
+        "phone": "(410) 319-7150 ",
+        "street": "4500 Harford Rd",
+        "city": "Baltimore, MD 21214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5941047668457,
+          39.30162755262814
+        ]
+      }
     }
   ]
 }
