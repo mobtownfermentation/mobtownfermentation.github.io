@@ -324,6 +324,19 @@
           39.30162755262814
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "chase test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5267333984375,
+          41.672911819602085
+        ]
+      }
     }
   ]
 }
