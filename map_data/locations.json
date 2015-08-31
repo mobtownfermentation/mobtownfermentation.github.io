@@ -220,24 +220,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sobo Cafe",
-        "pic": "http://i.imgur.com/6gAomqU.jpg",
-        "street": "6 W Cross St",
-        "city": "Baltimore, MD 21230",
-        "phone": "(410) 752-1518",
-        "link": "http://sobocafe.net/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6148846,
-          39.2769397
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "On The Hill",
         "street": "1431 John St",
         "city": "Baltimore, MD 21217",
