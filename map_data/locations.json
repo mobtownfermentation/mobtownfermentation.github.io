@@ -450,6 +450,24 @@
           39.1318096
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Red Canoe",
+        "street": "4337 Harford Rd",
+        "city": "Baltimore, MD 21214",
+        "phone": "(410) 444-4440",
+        "link": "http://redcanoecafe.virb.com/",
+        "pic": "http://i.imgur.com/eEVLo9H.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04849243164062,
+          39.1325902438421
+        ]
+      }
     }
   ]
 }
