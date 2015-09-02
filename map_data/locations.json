@@ -396,6 +396,60 @@
           39.2819259
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sweet 27",
+        "street": "123 W 27th St",
+        "city": "Baltimore, MD 21218",
+        "phone": "(410) 464-7211",
+        "link": "http://www.sweet27.com/#about",
+        "pic": "http://i.imgur.com/dxbFMEN.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6196595,
+          39.3203569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roots Market (Clarksville)",
+        "street": "5805 Clarksville Square Dr",
+        "city": "Clarksville, MD 21029",
+        "phone": "(443) 535-9321",
+        "link": "http://rootsmkt.com/",
+        "pic": "http://i.imgur.com/aKClO5u.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9385779,
+          39.2123658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roots Market (Olney",
+        "link": "http://rootsmkt.com/",
+        "pic": "http://i.imgur.com/1fUFdRh.png",
+        "street": "16800 Georgia Ave",
+        "city": "Olney, MD 20832",
+        "phone": "(301) 774-1344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0716352,
+          39.1318096
+        ]
+      }
     }
   ]
 }
