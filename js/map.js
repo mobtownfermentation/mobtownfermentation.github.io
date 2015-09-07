@@ -114,8 +114,8 @@ L.Map.addInitHook('addHandler', 'sleep', L.Map.Sleep);
 
 L.mapbox.accessToken = 'pk.eyJ1IjoibW9idG93bmZlcm1lbnRhdGlvbiIsImEiOiI2YmMyYTk1ZDkzZjczOTUzNzlkZTlhMjYxN2M2OTNjYiJ9.3KhCewawdUqhTLGwF0PmsQ';
 var initExtent = [39.2918809, -76.6400553];
-    southWest = L.latLng(39, -76.95),
-    northEast = L.latLng(39.6, -76.35),
+    southWest = L.latLng(38, -78),
+    northEast = L.latLng(41, -75),
     bounds = L.latLngBounds(southWest, northEast);
 
 var map = L.mapbox.map('map', 'mapbox.streets', {zoomControl: false,minZoom: 9,maxZoom: 26,maxBounds: bounds,sleep: true,sleepTime: 800,wakeTime: 500,sleepNote: false,hoverToWake: true});
