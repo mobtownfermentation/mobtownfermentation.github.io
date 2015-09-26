@@ -78,42 +78,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.634219,
-          39.35587
-        ]
-      },
-      "properties": {
-        "title": "Eddie's of Roland Park",
-        "street": "5113 Roland Ave",
-        "city": "Baltimore, MD 21210",
-        "phone": "(410) 323-3656",
-        "link": "http://www.eddiesofrolandpark.com",
-        "pic": "http://i.imgur.com/bJdYFyP.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.626037,
-          39.378118
-        ]
-      },
-      "properties": {
-        "title": "Eddie's of Roland Park",
-        "street": "6213 N Charles St",
-        "city": "Baltimore, MD 21212",
-        "phone": "(410) 377-8040",
-        "link": "http://www.eddiesofrolandpark.com",
-        "pic": "http://i.imgur.com/fMOlswt.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -76.630933,
           39.331381
         ]
@@ -464,8 +428,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.04849243164062,
-          39.1325902438421
+          -76.5726092,
+          39.3393628
         ]
       }
     }
