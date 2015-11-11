@@ -432,6 +432,132 @@
           39.3393628
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Green Onion Market",
+        "street": "5500 Harford Rd",
+        "city": "Baltimore, MD 21214",
+        "phone": "(410) 444-1718",
+        "link": "http://www.greenonionmarket.net/",
+        "pic": "http://i.imgur.com/XsbMAjO.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5638987,
+          39.3524511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baltimore Yoga Village",
+        "street": "3000 Chestnut Ave #15",
+        "city": "Baltimore, MD 21211",
+        "phone": "(410) 662-8626",
+        "link": "http://www.baltimoreyogavillage.com/",
+        "pic": "http://i.imgur.com/qNgT4ho.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6319739,
+          39.3244972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Goucher College Pearlstone Dining Hall",
+        "street": "1021 Dulaney Valley Rd",
+        "city": "Baltimore, MD 21204",
+        "phone": "(410) 337-6000",
+        "link": "http://www.goucher.edu/",
+        "pic": "http://i.imgur.com/IHHAKK7.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6022509,
+          39.410932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jehovah Java Juice Bar",
+        "street": "3715 Old Columbia Pike",
+        "city": "Ellicott City, MD 21043",
+        "phone": "(443) 345-0293",
+        "link": "http://www.claygroundonline.com/",
+        "pic": "http://i.imgur.com/ypMnad1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8003696,
+          39.2671224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Good Life Organic Market",
+        "street": "485 Ritchie Hwy",
+        "city": "Severna Park, MD 21146",
+        "phone": "(410) 544-9515",
+        "link": "http://www.goodlifeorganicmarket.com/retailer/store_templates/shell_id_1.asp?storeID=3F56500F7B9B46A7AF9148AE6A66B159",
+        "pic": "http://i.imgur.com/Z3qjDfU.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5525948,
+          39.0836826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maggie's Farm",
+        "street": "4341 Harford Rd",
+        "city": "Baltimore, MD 21214",
+        "phone": "(410) 254-2376",
+        "link": "http://www.maggiesfarmmd.com/",
+        "pic": "http://i.imgur.com/g1GLdGm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5746577,
+          39.3394321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mt. Vernon Supermarket",
+        "street": "815 N Charles St #1",
+        "city": "Baltimore, MD 21201",
+        "phone": "(410) 727-2595",
+        "link": "http://www.yelp.com/biz/mt-vernon-supermarket-baltimore",
+        "pic": "http://i.imgur.com/vzjbOY0.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6177376,
+          39.2991443
+        ]
+      }
     }
   ]
 }
