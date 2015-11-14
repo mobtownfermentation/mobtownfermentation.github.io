@@ -24,24 +24,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.500051,
-          39.454467
-        ]
-      },
-      "properties": {
-        "title": "Jukai Juice",
-        "street": "12056 Glen Arm Rd",
-        "city": "Glen Arm, MD 21057",
-        "phone": "(410) 913-2599",
-        "link": "http://www.jukaijuiceco.com/",
-        "pic": "http://i.imgur.com/orkyyc8.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -76.634077,
           39.331271
         ]
@@ -53,24 +35,6 @@
         "phone": "(301) 221-6196",
         "link": "https://www.facebook.com/pages/Hashtagfoodies/1541645232773590?fref=ts",
         "pic": "http://i.imgur.com/N69BgmQ.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.639547,
-          39.327388
-        ]
-      },
-      "properties": {
-        "title": "Birroteca",
-        "street": "1520 Clipper Rd",
-        "city": "Baltimore, MD 21211",
-        "phone": "(443) 708-1935",
-        "link": "http://bmorebirroteca.com/",
-        "pic": "http://i.imgur.com/v0ajs7p.png"
       }
     },
     {
@@ -114,42 +78,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.634219,
-          39.35587
-        ]
-      },
-      "properties": {
-        "title": "Eddie's of Roland Park",
-        "street": "5113 Roland Ave",
-        "city": "Baltimore, MD 21210",
-        "phone": "(410) 323-3656",
-        "link": "http://www.eddiesofrolandpark.com",
-        "pic": "http://i.imgur.com/bJdYFyP.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.626037,
-          39.378118
-        ]
-      },
-      "properties": {
-        "title": "Eddie's of Roland Park",
-        "street": "6213 N Charles St",
-        "city": "Baltimore, MD 21212",
-        "phone": "(410) 377-8040",
-        "link": "http://www.eddiesofrolandpark.com",
-        "pic": "http://i.imgur.com/fMOlswt.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -76.630933,
           39.331381
         ]
@@ -157,7 +85,7 @@
       "properties": {
         "title": "Luigi's Italian Deli",
         "street": "846 W 36th St",
-        "city": "Baltimore MD 21211",
+        "city": "Baltimore, MD 21211",
         "phone": "(443) 438-4195",
         "link": "https://www.luigisdeli.net",
         "pic": "http://i.imgur.com/ArxuJeV.jpg"
@@ -215,6 +143,420 @@
         "phone": "(410) 235-3870",
         "link": "http://www.yelp.com/biz/harmony-bakery-baltimore",
         "pic": "http://i.imgur.com/sx6xPNk.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Milk and Honey Market",
+        "street": "816 Cathedral St",
+        "city": "Balimore, MD 21201",
+        "phone": "(410) 685-6455",
+        "link": "http://milkandhoneybaltimore.com/",
+        "pic": "http://i.imgur.com/YG6GH1c.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6172797,
+          39.2993472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eddies Mount Vernon",
+        "street": "7 West Eager St",
+        "city": "Baltimore, MD 21201",
+        "phone": "(410) 727-0154",
+        "link": "http://www.eddiesofmtvernon.com/",
+        "pic": "http://i.imgur.com/WQqYOzI.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.616704,
+          39.300735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "On The Hill",
+        "street": "1431 John St",
+        "city": "Baltimore, MD 21217",
+        "phone": "(410) 225-9667",
+        "link": "http://onthehillcafe.com/",
+        "pic": "http://i.imgur.com/W0afBoF.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6237562,
+          39.308443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Garden Plate",
+        "street": "615 N. Wolfe Street 9th Floor",
+        "city": "Baltimore, MD 21205",
+        "pic": "http://i.imgur.com/fsnxszJ.jpg",
+        "link": "http://www.zuppler.com/restaurants/gardenplate",
+        "phone": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60311698913574,
+          39.305745328509616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Charmingtons",
+        "link": "http://charmingtons.com/",
+        "street": "2601 N. Howard Street",
+        "city": "Baltimore, MD 21218",
+        "phone": "(410) 235-5004",
+        "pic": "http://i.imgur.com/VpJPvsn.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59899711608887,
+          39.30375288655931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zia's Cafe",
+        "street": "13 Allegheny Ave",
+        "link": "http://www.ziascafe.com/#about",
+        "city": "Towson, MD 21204",
+        "phone": "(410) 296-0799",
+        "pic": "http://i.imgur.com/k8IJUEf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60303115844727,
+          39.301693970290316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hamilton/Lauraville Farmers Market",
+        "pic": "http://i.imgur.com/qRZkQP2.jpg",
+        "link": "http://bmoremainstreet.com/event/tuesday-market-lauraville/",
+        "phone": "(410) 319-7150 ",
+        "street": "4500 Harford Rd",
+        "city": "Baltimore, MD 21214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5941047668457,
+          39.30162755262814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Charm City Yoga (Midtown)",
+        "street": "107 E Preston",
+        "city": "St, Baltimore, MD 21202",
+        "phone": "(800) 336-9642 ext. 6",
+        "link": "http://charmcityyoga.com/",
+        "pic": "http://i.imgur.com/1HJblKp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6138325,
+          39.304347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Charm City Yoga (Federal Hill)",
+        "street": "1024 Light St",
+        "city": "Baltimore, MD 21230",
+        "phone": "(800) 336-9642",
+        "link": "http://charmcityyoga.com/",
+        "pic": "http://i.imgur.com/1HJblKp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6124743,
+          39.2777677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Charm City Yoga (Fells Point)",
+        "link": "http://charmcityyoga.com/",
+        "pic": "http://i.imgur.com/1HJblKp.png",
+        "street": "1807 Thames St",
+        "city": "Baltimore, MD 21231",
+        "phone": "(800) 336-9642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5905801,
+          39.2818362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pitango Bakery + Cafe",
+        "street": "903 S Ann St",
+        "city": "Baltimore, MD 21231",
+        "phone": "(443) 676-6447",
+        "link": "https://www.facebook.com/PitangoBakery",
+        "pic": "http://i.imgur.com/kBsP07r.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5911322,
+          39.2818858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Owl Massage You",
+        "pic": "http://i.imgur.com/pgIFOmJ.png",
+        "link": "https://www.facebook.com/Owlmassageyou",
+        "phone": "(443) 574-4717",
+        "street": "3230 Bethany Ln 5A",
+        "city": "Ellicott City, MD 21043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8594181,
+          39.2819259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sweet 27",
+        "street": "123 W 27th St",
+        "city": "Baltimore, MD 21218",
+        "phone": "(410) 464-7211",
+        "link": "http://www.sweet27.com/#about",
+        "pic": "http://i.imgur.com/dxbFMEN.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6196595,
+          39.3203569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roots Market (Clarksville)",
+        "street": "5805 Clarksville Square Dr",
+        "city": "Clarksville, MD 21029",
+        "phone": "(443) 535-9321",
+        "link": "http://rootsmkt.com/",
+        "pic": "http://i.imgur.com/aKClO5u.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9385779,
+          39.2123658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roots Market (Olney)",
+        "link": "http://rootsmkt.com/",
+        "pic": "http://i.imgur.com/1fUFdRh.png",
+        "street": "16800 Georgia Ave",
+        "city": "Olney, MD 20832",
+        "phone": "(301) 774-1344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0716352,
+          39.1318096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Red Canoe",
+        "street": "4337 Harford Rd",
+        "city": "Baltimore, MD 21214",
+        "phone": "(410) 444-4440",
+        "link": "http://redcanoecafe.virb.com/",
+        "pic": "http://i.imgur.com/eEVLo9H.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5726092,
+          39.3393628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Green Onion Market",
+        "street": "5500 Harford Rd",
+        "city": "Baltimore, MD 21214",
+        "phone": "(410) 444-1718",
+        "link": "http://www.greenonionmarket.net/",
+        "pic": "http://i.imgur.com/XsbMAjO.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5638987,
+          39.3524511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baltimore Yoga Village",
+        "street": "3000 Chestnut Ave #15",
+        "city": "Baltimore, MD 21211",
+        "phone": "(410) 662-8626",
+        "link": "http://www.baltimoreyogavillage.com/",
+        "pic": "http://i.imgur.com/qNgT4ho.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6319739,
+          39.3244972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Goucher College Pearlstone Dining Hall",
+        "street": "1021 Dulaney Valley Rd",
+        "city": "Baltimore, MD 21204",
+        "phone": "(410) 337-6000",
+        "link": "http://www.goucher.edu/",
+        "pic": "http://i.imgur.com/IHHAKK7.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6022509,
+          39.410932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jehovah Java Juice Bar",
+        "street": "3715 Old Columbia Pike",
+        "city": "Ellicott City, MD 21043",
+        "phone": "(443) 345-0293",
+        "link": "http://www.claygroundonline.com/",
+        "pic": "http://i.imgur.com/ypMnad1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8003696,
+          39.2671224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Good Life Organic Market",
+        "street": "485 Ritchie Hwy",
+        "city": "Severna Park, MD 21146",
+        "phone": "(410) 544-9515",
+        "link": "http://www.goodlifeorganicmarket.com/retailer/store_templates/shell_id_1.asp?storeID=3F56500F7B9B46A7AF9148AE6A66B159",
+        "pic": "http://i.imgur.com/Z3qjDfU.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5525948,
+          39.0836826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maggie's Farm",
+        "street": "4341 Harford Rd",
+        "city": "Baltimore, MD 21214",
+        "phone": "(410) 254-2376",
+        "link": "http://www.maggiesfarmmd.com/",
+        "pic": "http://i.imgur.com/g1GLdGm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5746577,
+          39.3394321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mt. Vernon Supermarket",
+        "street": "815 N Charles St #1",
+        "city": "Baltimore, MD 21201",
+        "phone": "(410) 727-2595",
+        "link": "http://www.yelp.com/biz/mt-vernon-supermarket-baltimore",
+        "pic": "http://i.imgur.com/vzjbOY0.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6177376,
+          39.2991443
+        ]
       }
     }
   ]

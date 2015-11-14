@@ -142,6 +142,9 @@
     .footer{
     	max-width:300px;
     }
+    .section.Wild-Kombucha span{
+    	display:none;
+    }
 }
 /**iphone 6, 6s, 6plus PORTRAIT**/
 @media only screen and (min-width: 375px) and (max-width: 677px)and (orientation: portrait) {
@@ -286,6 +289,9 @@
     .footer .inner{
     	max-width:275px;
         min-width:275px;
+    }
+        .section.Wild-Kombucha span{
+    	display:none;
     }
 }
 /**iphone 4, 4s, 5, 5s LANDSCAPE**/
@@ -432,6 +438,9 @@
     	max-width:275px;
         min-width:275px;
     }
+        .section.Wild-Kombucha span{
+    	display:none;
+    }
 }
 
 /**iphone 6 LANDSCAPE**/
@@ -497,6 +506,9 @@
     #formContainer{
         display:none;
     }
+        .section.Wild-Kombucha span{
+    	display:none;
+    }
 }
 
 /**iphone 6plus LANDSCAPE**/
@@ -561,6 +573,9 @@
 	}
     #formContainer{
         display:none;
+    }
+        .section.Wild-Kombucha span{
+    	display:none;
     }
 }
 /**ipad PORTRAIT**/
@@ -654,6 +669,9 @@
 	}
     #formContainer{
         display:none;
+    }
+        .section.Wild-Kombucha span{
+    	display:none;
     }
 }
 /**ipad LANDSCAPE**/
