@@ -3,6 +3,114 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {
+        "title": "Charmingtons",
+        "link": "http://charmingtons.com/",
+        "street": "2601 N. Howard Street",
+        "city": "Baltimore, MD 21218",
+        "phone": "(410) 235-5004",
+        "pic": "http://i.imgur.com/VpJPvsn.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59899711608887,
+          39.30375288655931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sweet 27",
+        "street": "123 W 27th St",
+        "city": "Baltimore, MD 21218",
+        "phone": "(410) 464-7211",
+        "link": "http://www.sweet27.com/#about",
+        "pic": "http://i.imgur.com/dxbFMEN.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6196595,
+          39.3203569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roots Market (Clarksville)",
+        "street": "5805 Clarksville Square Dr",
+        "city": "Clarksville, MD 21029",
+        "phone": "(443) 535-9321",
+        "link": "http://rootsmkt.com/",
+        "pic": "http://i.imgur.com/aKClO5u.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9385779,
+          39.2123658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roots Market (Olney)",
+        "link": "http://rootsmkt.com/",
+        "pic": "http://i.imgur.com/1fUFdRh.png",
+        "street": "16800 Georgia Ave",
+        "city": "Olney, MD 20832",
+        "phone": "(301) 774-1344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0716352,
+          39.1318096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.629588,
+          39.329825
+        ]
+      },
+      "properties": {
+        "title": "Harmony Bakery",
+        "street": "3446 Chestnut Ave",
+        "city": "Baltimore, MD 21211",
+        "phone": "(410) 235-3870",
+        "link": "http://www.yelp.com/biz/harmony-bakery-baltimore",
+        "pic": "http://i.imgur.com/sx6xPNk.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eddies Mount Vernon",
+        "street": "7 West Eager St",
+        "city": "Baltimore, MD 21201",
+        "phone": "(410) 727-0154",
+        "link": "http://www.eddiesofmtvernon.com/",
+        "pic": "http://i.imgur.com/WQqYOzI.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.616704,
+          39.300735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -129,24 +237,6 @@
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.629588,
-          39.329825
-        ]
-      },
-      "properties": {
-        "title": "Harmony Bakery",
-        "street": "3446 Chestnut Ave",
-        "city": "Baltimore, MD 21211",
-        "phone": "(410) 235-3870",
-        "link": "http://www.yelp.com/biz/harmony-bakery-baltimore",
-        "pic": "http://i.imgur.com/sx6xPNk.jpg"
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
         "title": "Milk and Honey Market",
         "street": "816 Cathedral St",
@@ -160,24 +250,6 @@
         "coordinates": [
           -76.6172797,
           39.2993472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eddies Mount Vernon",
-        "street": "7 West Eager St",
-        "city": "Baltimore, MD 21201",
-        "phone": "(410) 727-0154",
-        "link": "http://www.eddiesofmtvernon.com/",
-        "pic": "http://i.imgur.com/WQqYOzI.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.616704,
-          39.300735
         ]
       }
     },
@@ -214,24 +286,6 @@
         "coordinates": [
           -76.60311698913574,
           39.305745328509616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charmingtons",
-        "link": "http://charmingtons.com/",
-        "street": "2601 N. Howard Street",
-        "city": "Baltimore, MD 21218",
-        "phone": "(410) 235-5004",
-        "pic": "http://i.imgur.com/VpJPvsn.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.59899711608887,
-          39.30375288655931
         ]
       }
     },
@@ -358,60 +412,6 @@
         "coordinates": [
           -76.8594181,
           39.2819259
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sweet 27",
-        "street": "123 W 27th St",
-        "city": "Baltimore, MD 21218",
-        "phone": "(410) 464-7211",
-        "link": "http://www.sweet27.com/#about",
-        "pic": "http://i.imgur.com/dxbFMEN.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6196595,
-          39.3203569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Roots Market (Clarksville)",
-        "street": "5805 Clarksville Square Dr",
-        "city": "Clarksville, MD 21029",
-        "phone": "(443) 535-9321",
-        "link": "http://rootsmkt.com/",
-        "pic": "http://i.imgur.com/aKClO5u.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9385779,
-          39.2123658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Roots Market (Olney)",
-        "link": "http://rootsmkt.com/",
-        "pic": "http://i.imgur.com/1fUFdRh.png",
-        "street": "16800 Georgia Ave",
-        "city": "Olney, MD 20832",
-        "phone": "(301) 774-1344"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0716352,
-          39.1318096
         ]
       }
     },
