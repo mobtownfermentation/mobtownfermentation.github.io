@@ -558,6 +558,42 @@
           39.2991443
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grace's Acre",
+        "link": "https://www.facebook.com/Graces-Acre-821042094582856/",
+        "street": "101 N Patterson Park Ave",
+        "city": "Baltimore, MD 21231",
+        "phone": "(410) 276-2601",
+        "pic": "http://i.imgur.com/nstDOyu.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5868579,
+          39.2931459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "5410 Lynx Ln",
+        "city": "Columbia, MD 21044",
+        "link": "http://www.davidsnaturalmarket.com/retailer/store_templates/shell_id_1.asp?storeID=CF1D83C59A914DEEB1F49F78C9BE5747",
+        "title": "David's Natural Market",
+        "phone": "(410) 730-2304",
+        "pic": "http://i.imgur.com/uHkenhj.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8776023,
+          39.2209851
+        ]
+      }
     }
   ]
 }
