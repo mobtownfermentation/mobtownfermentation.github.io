@@ -132,24 +132,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.634077,
-          39.331271
-        ]
-      },
-      "properties": {
-        "title": "#foodies",
-        "street": "3600 Hickory Ave",
-        "city": "Baltimore, MD 21211",
-        "phone": "(301) 221-6196",
-        "link": "https://www.facebook.com/pages/Hashtagfoodies/1541645232773590?fref=ts",
-        "pic": "http://i.imgur.com/N69BgmQ.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -76.616997,
           39.304265
         ]
@@ -310,24 +292,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hamilton/Lauraville Farmers Market",
-        "pic": "http://i.imgur.com/qRZkQP2.jpg",
-        "link": "http://bmoremainstreet.com/event/tuesday-market-lauraville/",
-        "phone": "(410) 319-7150 ",
-        "street": "4500 Harford Rd",
-        "city": "Baltimore, MD 21214"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5941047668457,
-          39.30162755262814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Charm City Yoga (Midtown)",
         "street": "107 E Preston",
         "city": "St, Baltimore, MD 21202",
@@ -394,24 +358,6 @@
         "coordinates": [
           -76.5911322,
           39.2818858
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Owl Massage You",
-        "pic": "http://i.imgur.com/pgIFOmJ.png",
-        "link": "https://www.facebook.com/Owlmassageyou",
-        "phone": "(443) 574-4717",
-        "street": "3230 Bethany Ln 5A",
-        "city": "Ellicott City, MD 21043"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8594181,
-          39.2819259
         ]
       }
     },
