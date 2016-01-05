@@ -648,6 +648,42 @@
           39.3317624
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Corner Pantry",
+        "street": " 6080 Falls Rd",
+        "city": "Baltimore, MD 21212",
+        "phone": "(667) 308-2331",
+        "pic": "http://i.imgur.com/L5FHaSv.jpg",
+        "link": "http://www.corner-pantry.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6529555,
+          39.3734374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dovecote Cafe",
+        "pic": "http://i.imgur.com/igaRsha.png",
+        "link": "http://dovecotecafe.com/",
+        "street": "2501 Madison Ave #1f",
+        "city": "Baltimore, MD 21217",
+        "phone": "(510) 593-4254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6409537,
+          39.3135303
+        ]
+      }
     }
   ]
 }
