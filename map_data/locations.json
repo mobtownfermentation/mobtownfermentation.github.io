@@ -630,6 +630,24 @@
           39.2804333
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wine Source",
+        "pic": "http://i.imgur.com/uncWkz1.jpg",
+        "link": "http://www.thewinesource.com/",
+        "street": "3601 Elm Ave",
+        "city": "Baltimore, MD 21211",
+        "phone": "(410) 467-7777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6331552,
+          39.3317624
+        ]
+      }
     }
   ]
 }
