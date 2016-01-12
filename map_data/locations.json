@@ -132,24 +132,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.634077,
-          39.331271
-        ]
-      },
-      "properties": {
-        "title": "#foodies",
-        "street": "3600 Hickory Ave",
-        "city": "Baltimore, MD 21211",
-        "phone": "(301) 221-6196",
-        "link": "https://www.facebook.com/pages/Hashtagfoodies/1541645232773590?fref=ts",
-        "pic": "http://i.imgur.com/N69BgmQ.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -76.616997,
           39.304265
         ]
@@ -310,24 +292,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hamilton/Lauraville Farmers Market",
-        "pic": "http://i.imgur.com/qRZkQP2.jpg",
-        "link": "http://bmoremainstreet.com/event/tuesday-market-lauraville/",
-        "phone": "(410) 319-7150 ",
-        "street": "4500 Harford Rd",
-        "city": "Baltimore, MD 21214"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5941047668457,
-          39.30162755262814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Charm City Yoga (Midtown)",
         "street": "107 E Preston",
         "city": "St, Baltimore, MD 21202",
@@ -394,24 +358,6 @@
         "coordinates": [
           -76.5911322,
           39.2818858
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Owl Massage You",
-        "pic": "http://i.imgur.com/pgIFOmJ.png",
-        "link": "https://www.facebook.com/Owlmassageyou",
-        "phone": "(443) 574-4717",
-        "street": "3230 Bethany Ln 5A",
-        "city": "Ellicott City, MD 21043"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8594181,
-          39.2819259
         ]
       }
     },
@@ -556,6 +502,186 @@
         "coordinates": [
           -76.6177376,
           39.2991443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grace's Acre",
+        "link": "https://www.facebook.com/Graces-Acre-821042094582856/",
+        "street": "101 N Patterson Park Ave",
+        "city": "Baltimore, MD 21231",
+        "phone": "(410) 276-2601",
+        "pic": "http://i.imgur.com/nstDOyu.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5868579,
+          39.2931459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "5410 Lynx Ln",
+        "city": "Columbia, MD 21044",
+        "link": "http://www.davidsnaturalmarket.com/retailer/store_templates/shell_id_1.asp?storeID=CF1D83C59A914DEEB1F49F78C9BE5747",
+        "title": "David's Natural Market",
+        "phone": "(410) 730-2304",
+        "pic": "http://i.imgur.com/uHkenhj.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8776023,
+          39.2209851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SoBo Market",
+        "link": "http://sobomarket.com/",
+        "street": "13 E Randall St",
+        "city": "Baltimore, MD 21230",
+        "phone": "(410) 685-6605",
+        "pic": "http://i.imgur.com/3TPn6y6.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6157527,
+          39.2713831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Little Red Fox",
+        "link": "http://www.littleredfoxdc.com/",
+        "street": "5035 Connecticut Ave NW",
+        "city": " Washington, DC 20008",
+        "phone": "(202) 248-6346",
+        "pic": "http://i.imgur.com/GuvNLjF.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0719967,
+          38.9559342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ruah Yoga Studio",
+        "link": "https://ruahstudio.com/",
+        "street": "1410 Forest Dr #9",
+        "city": "Annapolis, MD 21403",
+        "phone": "(410) 216-7838",
+        "pic": "http://i.imgur.com/iiQ5UgS.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.511862,
+          38.961141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Annapolis Organic Market ",
+        "street": "25 Market Space",
+        "city": "Annapolis, MD 21401",
+        "link": "http://www.yelp.com/biz/annapolis-organic-market-annapolis",
+        "phone": " (443) 714-8426",
+        "pic": "http://i.imgur.com/UbT3wYU.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.489344,
+          38.9778996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "3 Bean Coffee",
+        "street": "209 Key Hwy",
+        "city": "Baltimore, MD 21230",
+        "link": "http://3beancoffee.com/",
+        "phone": "(410) 216-3339",
+        "pic": "http://i.imgur.com/9FSUASI.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6129139,
+          39.2804333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wine Source",
+        "pic": "http://i.imgur.com/uncWkz1.jpg",
+        "link": "http://www.thewinesource.com/",
+        "street": "3601 Elm Ave",
+        "city": "Baltimore, MD 21211",
+        "phone": "(410) 467-7777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6331552,
+          39.3317624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Corner Pantry",
+        "street": " 6080 Falls Rd",
+        "city": "Baltimore, MD 21212",
+        "phone": "(667) 308-2331",
+        "pic": "http://i.imgur.com/L5FHaSv.jpg",
+        "link": "http://www.corner-pantry.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6529555,
+          39.3734374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dovecote Cafe",
+        "pic": "http://i.imgur.com/igaRsha.png",
+        "link": "http://dovecotecafe.com/",
+        "street": "2501 Madison Ave #1f",
+        "city": "Baltimore, MD 21217",
+        "phone": "(510) 593-4254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6409537,
+          39.3135303
         ]
       }
     }
