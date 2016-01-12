@@ -144,7 +144,7 @@ body {
     width:70px;
     border-radius:100%;
     padding:0;
-    float:right;  
+    float:right;
 }
 .subNavBtn:hover, .toTop:hover{
     background-color:rgba(255, 216, 0,0.45);
@@ -174,12 +174,12 @@ a#Contact-Mobtown.subNavBtn.active {
 #fb{
     background-image: url('images/fb.png');
     background-repeat:no-repeat;
-    background-size:cover;   
+    background-size:cover;
 }
 #twitter{
     background-image: url('images/twitter.png');
     background-repeat:no-repeat;
-    background-size:cover;   
+    background-size:cover;
 }
 /**title container**/
 #titleContainer{
@@ -216,7 +216,7 @@ a#Contact-Mobtown.subNavBtn.active {
 .Wild-Kombucha-Mobtown-Fermentation{
     background-image:url("images/newbg.png");
     background-size:cover;
-    background-position:top;    
+    background-position:top;
     height:100vh;
     margin-top:-90px;
 }
@@ -313,7 +313,7 @@ a#Contact-Mobtown.subNavBtn.active {
     margin:0 1%;
 	cursor: default;
     position:relative;
-	box-shadow: 
+	box-shadow:
 		inset 0 0 0 0 rgba(200,95,66, 0.4),
 		inset 0 0 0 16px rgba(255,255,255,0.6),
 		0 1px 2px rgba(0,0,0,0.1);
@@ -375,67 +375,67 @@ a#Contact-Mobtown.subNavBtn.active {
 	background-repeat: no-repeat;
 }
 /**pics**/
-.adam{ 
+.adam{
     background-image: url('images/adam.png');
     background-size: cover;
     background-position: center;
 }
-.sergio{ 
+.sergio{
     background-image: url('images/sergio.png');
     background-size: cover;
     background-position: center;
 }
-.sid{ 
+.sid{
     background-image: url('images/sid.png');
     background-size: cover;
     background-position: center;
 }
-.pic1{ 
+.pic1{
     background-image: url('images/bottleline.png');
     background-size: cover;
     background-position: center;
 }
-.pic2{ 
+.pic2{
     background-image: url('images/bottlecap.png');
     background-size: cover;
     background-position: center;
 }
-.pic3{ 
+.pic3{
     background-image: url('images/facilities.png');
     background-size: 100% 100%;
     background-position: center;
 }
-.pic4{ 
+.pic4{
     background-image: url('images/fizz.png');
     background-size: cover;
     background-position: center;
 }
-.pic5{ 
+.pic5{
     background-image: url('images/cocktail.png');
     background-size: cover;
     background-position: center;
 }
-.pic6{ 
+.pic6{
     background-image: url('images/kombucha-glass.png');
     background-size: cover;
     background-position: center;
 }
-.hist1{ 
+.hist1{
     background-image: url('images/hist1.png');
     background-size: cover;
     background-position: center;
 }
-.hist2{ 
+.hist2{
     background-image: url('images/hist2.png');
     background-size: cover;
     background-position: center;
 }
-.hist3{ 
+.hist3{
     background-image: url('images/hist3.png');
     background-size: cover;
     background-position: center;
 }
-.hist4{ 
+.hist4{
     background-image: url('images/hist4.png');
     background-size: cover;
     background-position: center;
@@ -459,8 +459,8 @@ a#Contact-Mobtown.subNavBtn.active {
 	font-size: 20px;
 	margin: 0 30px;
 	font-family: 'Rye', Arial, sans-serif;
-	text-shadow: 
-		0 0 1px #fff, 
+	text-shadow:
+		0 0 1px #fff,
 		0 1px 2px rgba(0,0,0,0.3);
 }
 .ch-info p {
@@ -492,7 +492,7 @@ a#Contact-Mobtown.subNavBtn.active {
 }
 .pic:hover .ch-info {
     opacity: 1;
-    transform: scale(1);    
+    transform: scale(1);
 }
 /**Locations**/
 #map{
@@ -608,14 +608,14 @@ a#Contact-Mobtown.subNavBtn.active {
     width:48%;
     margin:1.2em 2% 0 0;
     float:left;
-    border:0px solid orange; 
+    border:0px solid orange;
 }
 #formContainer{
     position:relative;
     width:48%;
     margin:1.2em 0 100px 2%;
     float:left;
-    border:0px solid orange; 
+    border:0px solid orange;
 }
 form{
     position:relative;
@@ -656,6 +656,10 @@ form input[type="submit"]{
 	text-align: center;
 	font-size: 12px;
 	z-index:-1;
+}
+.footer img{
+	height:100px;
+	vertical-align: middle;
 }
 /**Mobile menu**/
 #mobileMenu{
@@ -699,10 +703,3 @@ form input[type="submit"]{
     -webkit-box-shadow: inset 0 0 5px #000000;
     box-shadow: inset 0 0 5px #000000;
 }
-
-
-
-
-
-
-
