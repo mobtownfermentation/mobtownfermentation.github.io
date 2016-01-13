@@ -684,6 +684,78 @@
           39.3135303
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.glensgardenmarket.com/",
+        "title": "Glen's Garden Market (Dupont)",
+        "street": "2001 S Street NW",
+        "city": "Washington, DC 20009",
+        "phone": "(202) 588 5698",
+        "pic": "http://i.imgur.com/swzii6y.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6246058,
+          39.1871138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://www.glensgardenmarket.com/",
+        "title": "Glen's Garden Market (Shaw)",
+        "street": "1924 8th Street NW",
+        "city": "Washington, DC 20001",
+        "phone": "(202) 939 2839",
+        "pic": "http://i.imgur.com/swzii6y.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0256773,
+          38.9165209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "http://www.bullfrogbagels.com/",
+        "title": "Bullfrog Bagels",
+        "street": "1341 H St NE",
+        "city": "Washington, DC 20002",
+        "phone": "(202) 494-5615",
+        "pic": "http://i.imgur.com/5vzJQYc.gif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9889847,
+          38.8999957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "http://www.tasty66.com/",
+        "title": "Bob's Shanghai 66",
+        "street": "305 N Washington St",
+        "city": "Rockville, Maryland 20850",
+        "phone": "301-251-6652",
+        "pic": "http://i.imgur.com/bFnN4Zp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1558918,
+          39.0887049
+        ]
+      }
     }
   ]
 }
