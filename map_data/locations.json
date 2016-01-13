@@ -738,24 +738,6 @@
           38.8999957
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "link": "http://www.tasty66.com/",
-        "title": "Bob's Shanghai 66",
-        "street": "305 N Washington St",
-        "city": "Rockville, Maryland 20850",
-        "phone": "301-251-6652",
-        "pic": "http://i.imgur.com/bFnN4Zp.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.1558918,
-          39.0887049
-        ]
-      }
     }
   ]
 }
