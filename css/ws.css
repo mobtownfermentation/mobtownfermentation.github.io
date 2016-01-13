@@ -223,7 +223,9 @@ a#Contact-Mobtown.subNavBtn.active {
     margin-top:-90px;
 }
 #main-logo{
-	margin:90px auto;
+	margin-top:70px;
+	/*margin:90px auto;*/
+	width:80%;
 	/*border:1px solid black;*/
 }
 /**Our Booch**/
