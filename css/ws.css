@@ -214,11 +214,19 @@ a#Contact-Mobtown.subNavBtn.active {
     display:none;
 }
 .Wild-Kombucha-Mobtown-Fermentation{
-    background-image:url("images/newbg.png");
+		text-align: center;
+    /*background-image:url("images/newbg2.png");
     background-size:cover;
-    background-position:top;
+    background-position:top;*/
+		position:relative;
     height:100vh;
     margin-top:-90px;
+}
+#main-logo{
+	margin-top:70px;
+	/*margin:90px auto;*/
+	width:80%;
+	/*border:1px solid black;*/
 }
 /**Our Booch**/
 .gallery,.time{
