@@ -738,6 +738,24 @@
           38.8999957
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shanghai Bao Kitchen",
+        "link": "http://shanghai66.weebly.com/index.html",
+        "street": "7101 Democracy Blvd #2110",
+        "city": "Bethesda, MD 20817",
+        "pic": "http://i.imgur.com/Rojj6V6.png",
+        "phone": "(301) 365-8866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1481462,
+          39.0241209
+        ]
+      }
     }
   ]
 }
