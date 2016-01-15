@@ -544,24 +544,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "SoBo Market",
-        "link": "http://sobomarket.com/",
-        "street": "13 E Randall St",
-        "city": "Baltimore, MD 21230",
-        "phone": "(410) 685-6605",
-        "pic": "http://i.imgur.com/3TPn6y6.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6157527,
-          39.2713831
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Little Red Fox",
         "link": "http://www.littleredfoxdc.com/",
         "street": "5035 Connecticut Ave NW",
