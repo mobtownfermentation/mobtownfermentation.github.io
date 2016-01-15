@@ -738,6 +738,24 @@
           39.0241209
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sandy's Raw Food Juice ",
+        "street": "3602 W Rogers Ave",
+        "city": "Baltimore, MD 21215",
+        "phone": "(410) 294-4555",
+        "pic": "http://i.imgur.com/2EOaRh0.jpg",
+        "link": "https://www.facebook.com/Sandys-Raw-Food-Juice-Bar-1378466259143709/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6863623,
+          39.3514954
+        ]
+      }
     }
   ]
 }
