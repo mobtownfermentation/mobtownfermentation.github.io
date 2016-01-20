@@ -756,6 +756,24 @@
           38.9012139
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "http://marketriverfalls.com/",
+        "title": "The Market at River Falls",
+        "street": "10124 River Road",
+        "city": "Potomac, MD 20854",
+        "phone": "301-765-8001 ",
+        "pic": "http://i.imgur.com/9zD2kfI.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.210704,
+          39.0177629
+        ]
+      }
     }
   ]
 }
