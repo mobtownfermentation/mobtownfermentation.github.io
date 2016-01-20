@@ -490,24 +490,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mt. Vernon Supermarket",
-        "street": "815 N Charles St #1",
-        "city": "Baltimore, MD 21201",
-        "phone": "(410) 727-2595",
-        "link": "http://www.yelp.com/biz/mt-vernon-supermarket-baltimore",
-        "pic": "http://i.imgur.com/vzjbOY0.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6177376,
-          39.2991443
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Grace's Acre",
         "link": "https://www.facebook.com/Graces-Acre-821042094582856/",
         "street": "101 N Patterson Park Ave",
@@ -754,6 +736,24 @@
         "coordinates": [
           -76.6863623,
           39.3514954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chase the Submarine",
+        "link": "http://www.chasethesubmarine.com/",
+        "street": "132 Church St NW",
+        "city": "Vienna, VA 22180",
+        "phone": "(703) 865-7829",
+        "pic": "http://i.imgur.com/4NuOWGn.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2693688,
+          38.9012139
         ]
       }
     }
