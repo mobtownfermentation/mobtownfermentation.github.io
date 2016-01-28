@@ -292,12 +292,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Charm City Yoga (Midtown)",
+        "title": "Yoga Works (Midtown)",
         "street": "107 E Preston",
         "city": "St, Baltimore, MD 21202",
         "phone": "(800) 336-9642 ext. 6",
         "link": "http://charmcityyoga.com/",
-        "pic": "http://i.imgur.com/1HJblKp.png"
+        "pic": "http://i.imgur.com/ztJSa5T.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -310,12 +310,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Charm City Yoga (Federal Hill)",
+        "title": "Yoga Works (Federal Hill)",
         "street": "1024 Light St",
         "city": "Baltimore, MD 21230",
         "phone": "(800) 336-9642",
         "link": "http://charmcityyoga.com/",
-        "pic": "http://i.imgur.com/1HJblKp.png"
+        "pic": "http://i.imgur.com/ztJSa5T.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -328,9 +328,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Charm City Yoga (Fells Point)",
+        "title": "Yoga Works (Fells Point)",
         "link": "http://charmcityyoga.com/",
-        "pic": "http://i.imgur.com/1HJblKp.png",
+        "pic": "http://i.imgur.com/ztJSa5T.jpg",
         "street": "1807 Thames St",
         "city": "Baltimore, MD 21231",
         "phone": "(800) 336-9642"
