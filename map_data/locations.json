@@ -774,6 +774,24 @@
           39.0177629
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Green Valley Market Place",
+        "link": "http://greenvalleymarketplace.com/",
+        "pic": "http://i.imgur.com/KCXy7op.png",
+        "street": "1238 Bay Dale Dr",
+        "city": "Arnold, MD 21012",
+        "phone": "(410) 757-0505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4832689,
+          39.0389813
+        ]
+      }
     }
   ]
 }
