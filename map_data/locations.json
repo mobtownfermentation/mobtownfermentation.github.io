@@ -778,7 +778,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Green Valley Market Place",
+        "title": "Green Valley Market Place (Arnold)",
         "link": "http://greenvalleymarketplace.com/",
         "pic": "http://i.imgur.com/KCXy7op.png",
         "street": "1238 Bay Dale Dr",
@@ -790,6 +790,60 @@
         "coordinates": [
           -76.4832689,
           39.0389813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Green Valley Market Place (Elkridge)",
+        "street": "7280 Montgomery Rd",
+        "city": "Elkridge, MD 21075",
+        "link": "http://greenvalleymarketplace.com/",
+        "phone": "(410) 379-6525",
+        "pic": "http://i.imgur.com/KCXy7op.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7315566,
+          39.2070189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Whole Foods (Mt. Washington)",
+        "street": "1330 Smith Ave",
+        "city": "Baltimore, MD 21209",
+        "link": "http://www.wholefoodsmarket.com/stores/mountwashington?s=MTW",
+        "phone": "(410) 532-6700",
+        "pic": "http://i.imgur.com/HTgwOGm.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6520253,
+          39.368382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "1110 Congress St NE",
+        "city": "Washington, DC 20002",
+        "title": "Union Kitchen",
+        "link": "http://unionkitchendc.com/",
+        "phone": " (202) 547-0089",
+        "pic": "http://i.imgur.com/nxdUPet.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0051569,
+          38.9041039
         ]
       }
     }
