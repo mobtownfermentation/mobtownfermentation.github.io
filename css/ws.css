@@ -181,6 +181,11 @@ a#Contact-Mobtown.subNavBtn.active {
     background-repeat:no-repeat;
     background-size:cover;
 }
+#instagram{
+    background-image: url('images/instagram.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
 /**title container**/
 #titleContainer{
     position:absolute;
