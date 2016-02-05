@@ -70,7 +70,7 @@
     #socMedia li{
         display:inline-block;
         float:left;
-        width:50%;
+        width:33.333%;
         height:40px;
         font-size:20px;
         padding:0;
@@ -223,7 +223,7 @@
     #socMedia li{
         display:inline-block;
         float:left;
-        width:50%;
+        width:33.333%;
         height:40px;
         font-size:20px;
         padding:0;
@@ -371,7 +371,7 @@
     #socMedia li{
         display:inline-block;
         float:left;
-        width:50%;
+        width:33.333%;
         height:40px;
         font-size:20px;
         padding:0;
