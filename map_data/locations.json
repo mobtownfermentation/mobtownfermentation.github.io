@@ -584,7 +584,7 @@
         "street": "25 Market Space",
         "city": "Annapolis, MD 21401",
         "link": "http://www.yelp.com/biz/annapolis-organic-market-annapolis",
-        "phone": " (443) 714-8426",
+        "phone": "(443) 714-8426",
         "pic": "http://i.imgur.com/UbT3wYU.jpg"
       },
       "geometry": {
@@ -782,7 +782,7 @@
         "title": "The Market at River Falls",
         "street": "10124 River Road",
         "city": "Potomac, MD 20854",
-        "phone": "301-765-8001 ",
+        "phone": "(301) 765-8001 ",
         "pic": "http://i.imgur.com/9zD2kfI.png"
       },
       "geometry": {
@@ -836,7 +836,7 @@
         "city": "Washington, DC 20002",
         "title": "Union Kitchen",
         "link": "http://unionkitchendc.com/",
-        "phone": " (202) 547-0089",
+        "phone": "(202) 547-0089",
         "pic": "http://i.imgur.com/nxdUPet.jpg"
       },
       "geometry": {
@@ -844,6 +844,60 @@
         "coordinates": [
           -77.0051569,
           38.9041039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graul's Market (Taylor Ave)",
+        "link": "http://www.graulsmarket.com/",
+        "street": "Taylor Ave & Rowe Blvd",
+        "city": "Annapolis, MD 21401",
+        "phone": "(410) 269-5103",
+        "pic": "http://i.imgur.com/djpXTWT.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5050496,
+          38.9871418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graul's Market (Cape St)",
+        "link": "http://www.graulsmarket.com/",
+        "street": "1388 Cape St. Claire Road",
+        "city": "Annapolis, MD 21401",
+        "phone": "(410) 974-0737",
+        "pic": "http://i.imgur.com/djpXTWT.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4420107,
+          39.0371901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zeke's Coffee",
+        "street": "4607 Harford Rd",
+        "city": "Baltimore, MD 21214",
+        "phone": "(410) 254-0122",
+        "link": "http://www.zekescoffee.com/",
+        "pic": "http://i.imgur.com/XnEZeuz.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5720649,
+          39.3421066
         ]
       }
     }
