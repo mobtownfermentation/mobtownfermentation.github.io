@@ -900,6 +900,60 @@
           39.3421066
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graul's Market (Mays Chapel)",
+        "street": "12200 Tullamore Road",
+        "city": "Lutherville, MD 21093",
+        "link": "http://www.graulsmarket.com/index.html",
+        "phone": "(410) 308-2100",
+        "pic": "http://i.imgur.com/djpXTWT.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6678113,
+          39.457951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graul's Market (Ruxton)",
+        "street": "7713 Bellona Ave.",
+        "city": "Towson, MD 21204",
+        "phone": "(410) 823-6077",
+        "pic": "http://i.imgur.com/djpXTWT.png",
+        "link": "http://www.graulsmarket.com/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6469881,
+          39.3987773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gravel & Grind",
+        "street": "124 S Carroll St",
+        "city": "Frederick, MD 21701",
+        "phone": "(301) 682-2651",
+        "link": "http://gravelandgrind.com/",
+        "pic": "http://i.imgur.com/O0uTIRH.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.410055,
+          39.411181
+        ]
+      }
     }
   ]
 }
