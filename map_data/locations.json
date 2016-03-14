@@ -954,6 +954,150 @@
           39.411181
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tranquil Space",
+        "street": "1632 17th St NW",
+        "city": "Washington, DC 20009",
+        "phone": "202-328-9642",
+        "link": "http://www.tranquilspace.com/",
+        "pic": "http://i.imgur.com/W2LALnt.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0409438,
+          38.9122668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Whole Foods (Harbor East)",
+        "street": "1001 Fleet St",
+        "city": "Baltimore, MD 21202,",
+        "phone": "410-528-1640",
+        "link": "http://www.wholefoodsmarket.com/stores/harboreast?s=INH",
+        "pic": "http://i.imgur.com/cPdzxLr.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6018867,
+          39.2837592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Whole Foods (Columbia)",
+        "street": "10275 Little Patuxent Pkwy",
+        "city": "Columbia, MD 21044",
+        "link": "http://www.wholefoodsmarket.com/stores/columbia-md?s=KMQ",
+        "phone": " 240-865-1827",
+        "pic": "http://i.imgur.com/y8OtyEf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8580154,
+          39.2139189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baked by Yael",
+        "street": "3000 Connecticut Ave NW",
+        "city": "Washington, DC 20008",
+        "link": "https://bakedbyyael.com/",
+        "phone": "202-234-9235",
+        "pic": "http://i.imgur.com/NmGRXlW.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0580263,
+          38.9298321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bare Hills Racquet & Fitness Club",
+        "street": "1420 Clarkview Rd",
+        "city": "Baltimore, MD 21209",
+        "link": "http://www.barehills.com/",
+        "phone": "410-823-2500",
+        "pic": "http://i.imgur.com/NmGRXlW.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6599869,
+          39.3803669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bear's Honeypot",
+        "street": "MD #, 750 MD-3 #20",
+        "city": "Gambrills, MD 21054",
+        "link": "http://www.thebearshoneypot.com/",
+        "phone": "410-987-2418",
+        "pic": "http://i.imgur.com/q8QZ7xg.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6666873,
+          39.0497072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Taps Fill Station",
+        "street": "520 Park Ave",
+        "city": "Baltimore, MD 21201",
+        "phone": "484-998-8277",
+        "link": "https://www.facebook.com/tapsfillstation",
+        "pic": "http://i.imgur.com/fpU2aLJ.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6210166,
+          39.2958886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Relay Foods",
+        "link": "https://www.relayfoods.com/",
+        "street": "Pickup locations and contact info ",
+        "city": "on website",
+        "phone": "",
+        "pic": "http://i.imgur.com/rm900k7.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9986766,
+          38.8865877
+        ]
+      }
     }
   ]
 }
