@@ -1088,7 +1088,7 @@
         "link": "https://www.relayfoods.com/",
         "street": "Pickup locations and contact info ",
         "city": "on website",
-        "phone": "",
+        "phone": "202-618-6048",
         "pic": "http://i.imgur.com/rm900k7.png"
       },
       "geometry": {
@@ -1096,6 +1096,59 @@
         "coordinates": [
           -76.9986766,
           38.8865877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yoga Works (Columbia)",
+        "street": "8325 Guilford Rd",
+        "city": "Columbia, MD 21046",
+        "phone": "(800) 336-9642 ext. 10",
+        "pic": "http://i.imgur.com/ztJSa5T.jpg",
+        "link": "http://www.yogaworks.com/location/columbia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8713386,
+          39.1761286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Under Armour Guggenheim Cafe",
+        "street": "2601 Port Covington Dr",
+        "city": "Baltimore, MD 21230",
+        "pic": "http://i.imgur.com/K2aTa0W.png",
+        "phone": "1.888.7-ARMOUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6099877,
+          39.2600901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Atwaters (Canton)",
+        "street": "3601 Boston street",
+        "city": "Baltimore, Maryland 21224",
+        "link": "http://www.atwaters.biz/shops/canton/",
+        "phone": "667-309-7146",
+        "pic": "http://i.imgur.com/tJzVapO.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5685645,
+          39.2767937
         ]
       }
     }
