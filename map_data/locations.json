@@ -1151,6 +1151,24 @@
           39.2767937
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Washington Marriott Georgetown",
+        "street": "1221 22nd St NW",
+        "city": "Washington, DC 20037",
+        "phone": "(202) 872-1500",
+        "link": "http://www.marriott.com/hotels/travel/waswe-washington-marriott-georgetown/",
+        "pic": "http://i.imgur.com/f9L269M.gif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0507547,
+          38.9060545
+        ]
+      }
     }
   ]
 }
