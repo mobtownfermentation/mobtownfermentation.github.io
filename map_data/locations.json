@@ -1169,6 +1169,42 @@
           38.9060545
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yoga Tree",
+        "street": "911 W 36th St",
+        "city": "911 W 36th St",
+        "link": "http://yogatreebaltimore.com/",
+        "phone": "(410) 243-2040",
+        "pic": "http://i.imgur.com/8haTuTX.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6339943,
+          39.3308572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SKWR Kabobline",
+        "street": "1400 K St NW",
+        "city": "Washington, DC 20005",
+        "phone": "(202) 682-1717",
+        "link": "http://skwr.com/",
+        "pic": "http://i.imgur.com/a8Sx7Da.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.034483,
+          38.9021614
+        ]
+      }
     }
   ]
 }
