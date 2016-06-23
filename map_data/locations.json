@@ -1205,6 +1205,60 @@
           38.9021614
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MOM's (Hampden)",
+        "street": "711 W 40th St #163",
+        "city": "Baltimore, MD 21211",
+        "link": "http://www.momsorganicmarket.com/",
+        "phone": "(667) 219-2500",
+        "pic": "http://i.imgur.com/31nCmS9.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6325517,
+          39.3362515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MOM's (Rockville)",
+        "street": "5566 Randolph Rd",
+        "city": "Rockville, MD 20852",
+        "link": "http://www.momsorganicmarket.com/",
+        "phone": "(301) 816-4944",
+        "pic": "http://i.imgur.com/31nCmS9.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1144351,
+          39.0528871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MOM's (Arlington)",
+        "street": "1901 N Veitch St",
+        "city": "Arlington, VA 22201",
+        "link": "http://www.momsorganicmarket.com/",
+        "phone": "(571) 354-8810",
+        "pic": "http://i.imgur.com/31nCmS9.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0886978,
+          38.8960389
+        ]
+      }
     }
   ]
 }
