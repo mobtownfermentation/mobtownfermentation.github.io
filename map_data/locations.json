@@ -760,24 +760,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Chase the Submarine",
-        "link": "http://www.chasethesubmarine.com/",
-        "street": "132 Church St NW",
-        "city": "Vienna, VA 22180",
-        "phone": "(703) 865-7829",
-        "pic": "http://i.imgur.com/4NuOWGn.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.2693688,
-          38.9012139
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "link": "http://marketriverfalls.com/",
         "title": "The Market at River Falls",
         "street": "10124 River Road",
