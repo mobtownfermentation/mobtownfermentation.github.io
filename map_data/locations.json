@@ -1406,67 +1406,91 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Good Stuff Eatery",
+        "street": "3291 M St NW",
+        "city": "Washington, DC 20007",
+        "phone": "(202) 337-4663",
+        "link": "http://www.goodstuffeatery.com/locations/georgetown",
+        "pic": "http://i.imgur.com/1PDkEKa.jpg"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.113037109375,
-          39.38844797503874
+          -77.0679701,
+          38.9053221
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Annebeth's",
+        "street": "46 Maryland Ave",
+        "city": "Annapolis, MD 21401",
+        "phone": "(410) 990-9700",
+        "link": "http://www.annebeths.com/",
+        "pic": "http://i.imgur.com/YtQD1hE.jpg"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0361328125,
-          39.43937483836522
+          -76.4917605,
+          38.9802579
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Simit + Smith",
+        "street": "1077 Wisconsin Avenue NW",
+        "city": "Washington, DC 20007",
+        "phone": "(202) 758-0553",
+        "link": "http://www.simitandsmith.com/",
+        "pic": "http://i.imgur.com/1Hpa7l8.png"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.00180053710938,
-          39.4637641090409
+          -77.0647067,
+          38.904793
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Modern Cook Shop",
+        "street": "901 S Wolfe St",
+        "city": "Baltimore, MD 21231",
+        "phone": "(443) 627-8032",
+        "link": "http://moderncookshop.com/",
+        "pic": "http://i.imgur.com/YZutV4l.jpg"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.07046508789061,
-          39.35978526869001
+          -76.5912347,
+          39.281749
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Atwater's Hopkins",
+        "street": "1909 Ashland Ave",
+        "city": "Baltimore, MD 21205",
+        "phone": "(410) 601-3702",
+        "link": "http://www.atwaters.biz/",
+        "pic": "http://i.imgur.com/tJzVapO.jpg"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.156982421875,
-          39.41497702499074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.16659545898438,
-          39.39375459224348
+          -76.5927327,
+          39.3006619
         ]
       }
     }
