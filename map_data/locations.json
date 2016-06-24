@@ -1241,6 +1241,234 @@
           38.8960389
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MOM's (Woodbridge)",
+        "street": "14470 Smoketown Rd",
+        "city": "Woodbridge, VA 22193",
+        "link": "http://www.momsorganicmarket.com/",
+        "phone": "(571) 398-3043",
+        "pic": "http://i.imgur.com/31nCmS9.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3024731,
+          38.6381562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Busboys and Poets",
+        "street": "5331 Baltimore Ave",
+        "city": "Hyattsville, MD 20781",
+        "link": "http://www.busboysandpoets.com/",
+        "phone": "(301) 779-2787",
+        "pic": "http://i.imgur.com/5adsUww.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9422168,
+          38.9549977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "David's Natural Market (Forest Hill)",
+        "street": "1523 Rock Spring Rd",
+        "city": "Forest Hill, MD 21050",
+        "phone": "(410) 836-0808",
+        "link": "http://www.davidsnaturalmarket.com/retailer/store_templates/shell_id_1.asp?storeID=CF1D83C59A914DEEB1F49F78C9BE5747",
+        "pic": "http://i.imgur.com/uHkenhj.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3726494,
+          39.5613894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "http://www.davidsnaturalmarket.com/retailer/store_templates/shell_id_1.asp?storeID=CF1D83C59A914DEEB1F49F78C9BE5747",
+        "title": "David's Natural Market (Gambrills",
+        "street": "871 Annapolis Rd",
+        "city": "Gambrills, MD 21054",
+        "phone": " (410) 987-1533",
+        "pic": "http://i.imgur.com/uHkenhj.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6713098,
+          39.0666814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Firestone's Market on Market",
+        "street": "113 N Market St",
+        "city": "Frederick, MD 21701",
+        "phone": "(301) 696-8586",
+        "link": "http://www.firestonesmarket.com/",
+        "pic": "http://i.imgur.com/MszzzJi.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4129574,
+          39.4157402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Independent Brewing Company",
+        "street": "418 N Main St",
+        "city": "Bel Air, MD 21014",
+        "phone": "(410) 836-8313",
+        "link": "https://www.independentbrew.com/",
+        "pic": "http://i.imgur.com/XQk8W3I.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3586034,
+          39.5399864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kinda Jerky Really Nutty",
+        "street": "607 Atlantic Ave #101",
+        "city": "Ocean City, MD 21842",
+        "phone": "(888) 821-3601",
+        "link": "http://kindajerkyreallynutty.com/",
+        "pic": "http://i.imgur.com/Hi2WZnJ.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0847009,
+          38.3370614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Filling Station",
+        "street": "14910 York Rd",
+        "city": "Sparks Glencoe, MD 21152",
+        "phone": "(410) 771-0006",
+        "link": "http://www.thefillingstationcoffee.com/",
+        "pic": "http://i.imgur.com/nkbXGFh.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6488187,
+          39.5334743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vagabond Sandwich Company",
+        "street": "111 Thomas St",
+        "city": "Bel Air, MD 21014",
+        "phone": "(410) 838-1263",
+        "link": "http://www.vagabondsandwichcompany.com/location.html",
+        "pic": "http://i.imgur.com/8SS5uMy.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3522986,
+          39.5348804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.113037109375,
+          39.38844797503874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0361328125,
+          39.43937483836522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00180053710938,
+          39.4637641090409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07046508789061,
+          39.35978526869001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.156982421875,
+          39.41497702499074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.16659545898438,
+          39.39375459224348
+        ]
+      }
     }
   ]
 }
