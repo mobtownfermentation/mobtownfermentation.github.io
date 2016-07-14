@@ -1493,6 +1493,96 @@
           39.3006619
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Evolutions",
+        "street": "1834 George Ave",
+        "city": " Annapolis, MD 21401",
+        "phone": "(410) 224-7220",
+        "link": "http://www.evolutionsannapolis.com/",
+        "pic": "http://i.imgur.com/3YNTJzJ.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5252633,
+          38.9766797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Everlasting Life",
+        "street": "9185 Central Ave",
+        "city": "Capitol Heights, MD 20743",
+        "phone": "(301) 324-6900",
+        "link": "http://www.eliferestaurant.com/",
+        "pic": "http://i.imgur.com/9cNudDZ.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8510685,
+          38.976492485539396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Natural Market  ",
+        "street": "2149 York Rd",
+        "city": "Timonium, MD 21093",
+        "phone": "(410) 560-3133",
+        "link": "http://www.thenaturalmkt.com/",
+        "pic": "http://i.imgur.com/DceboAE.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0743408203125,
+          39.444677580473424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Whole Foods (Annapolis)",
+        "street": "200 Harker Pl #100",
+        "city": "Annapolis, MD 21401",
+        "phone": "(410) 573-1800",
+        "link": "http://www.wholefoodsmarket.com/stores/annapolis?s=ASI",
+        "pic": "http://i.imgur.com/HTgwOGm.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.28857421875,
+          39.232253141714885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Whole Foods (Foggy Bottom)",
+        "street": "2201 I St NW",
+        "city": "Washington, DC 20037",
+        "link": "http://www.wholefoodsmarket.com/stores/foggybottom?s=GWU",
+        "phone": "(202) 296-1660",
+        "pic": "http://i.imgur.com/y8OtyEf.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.49044799804688,
+          39.28010491220614
+        ]
+      }
     }
   ]
 }
