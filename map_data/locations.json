@@ -1424,41 +1424,67 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ""
+        "title": "The Filling Station",
+        "street": " 14910 York Rd",
+        "city": "Sparks Glencoe, MD 21152",
+        "phone": "(410) 771-0006",
+        "link": "http://www.thefillingstationcoffee.com/",
+        "pic": "http://i.imgur.com/iVfya88.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.52801513671875,
-          39.14976522028638
+          -76.648824,
+          39.5334743
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "YogaWorks Towson",
+        "street": " 7 Allegheny Ave",
+        "city": "Towson, MD 21204",
+        "phone": "(443) 341-9466",
+        "link": "http://www.yogaworks.com/location/towson/",
+        "pic": "http://i.imgur.com/ztJSa5T.jpg"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.44767761230469,
-          39.12473362566029
+          -76.605231,
+          39.4014462
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "YogaWorks Severna Park",
+        "street": " 160 Ritchie Hwy",
+        "city": "Severna Park, MD 21146",
+        "phone": "(443) 345-2792",
+        "link": "http://www.yogaworks.com/location/severna-park/",
+        "pic": "http://i.imgur.com/ztJSa5T.jpg"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.44905090332031,
+          -76.5683261,
           39.1071529333471
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Yoga Fresh",
+        "street": "308 N Main St",
+        "city": "Bel Air, Maryland",
+        "phone": "(443) 759-3308",
+        "link": "https://www.facebook.com/YogaFreshBelAir/",
+        "pic": "http://i.imgur.com/83pAxeG.jpg"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1469,7 +1495,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Yoga Tree Baltimore",
+        "street": " 911 W 36th St",
+        "city": "Baltimore, MD 21211",
+        "phone": "(410) 243-2040",
+        "link": "http://yogatreebaltimore.com/",
+        "pic": "http://i.imgur.com/eRMKQVZ.png"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
