@@ -544,24 +544,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Little Red Fox",
-        "link": "http://www.littleredfoxdc.com/",
-        "street": "5035 Connecticut Ave NW",
-        "city": " Washington, DC 20008",
-        "phone": "(202) 248-6346",
-        "pic": "http://i.imgur.com/GuvNLjF.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0719967,
-          38.9559342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Ruah Yoga Studio",
         "link": "https://ruahstudio.com/",
         "street": "1410 Forest Dr #9",
@@ -718,42 +700,6 @@
         "coordinates": [
           -76.9889847,
           38.8999957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Shanghai Bao Kitchen",
-        "link": "http://shanghai66.weebly.com/index.html",
-        "street": "7101 Democracy Blvd #2110",
-        "city": "Bethesda, MD 20817",
-        "pic": "http://i.imgur.com/Rojj6V6.png",
-        "phone": "(301) 365-8866"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.1481462,
-          39.0241209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sandy's Raw Food Juice ",
-        "street": "3602 W Rogers Ave",
-        "city": "Baltimore, MD 21215",
-        "phone": "(410) 294-4555",
-        "pic": "http://i.imgur.com/2EOaRh0.jpg",
-        "link": "https://www.facebook.com/Sandys-Raw-Food-Juice-Bar-1378466259143709/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6863623,
-          39.3514954
         ]
       }
     },
@@ -1347,24 +1293,6 @@
         "coordinates": [
           -76.3586034,
           39.5399864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Kinda Jerky Really Nutty",
-        "street": "607 Atlantic Ave #101",
-        "city": "Ocean City, MD 21842",
-        "phone": "(888) 821-3601",
-        "link": "http://kindajerkyreallynutty.com/",
-        "pic": "http://i.imgur.com/Hi2WZnJ.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.0847009,
-          38.3370614
         ]
       }
     },
