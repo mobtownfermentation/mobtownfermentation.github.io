@@ -1223,6 +1223,260 @@
           39.28010491220614
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Asana Roots",
+        "street": " 1707 N Charles St",
+        "city": "Baltimore, MD 21201",
+        "phone": "(443) 305-9642",
+        "link": "http://www.asanaroots.com/",
+        "pic": "http://i.imgur.com/IjM3mvL.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6183178,
+          39.3089657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "BAMF Café",
+        "street": " 1821 N Charles St",
+        "city": "Baltimore, MD 21201",
+        "phone": "(667) 930-3371",
+        "link": "https://www.facebook.com/BAMFcafe",
+        "pic": "http://i.imgur.com/UWo5cVB.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6184993,
+          39.3104814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "http://bycyoga26.com/",
+        "title": "BYC Yoga 26",
+        "street": "6935 Oakland Mills Rd, Suite L",
+        "city": "Columbia MD 21045",
+        "phone": "(410) 381-1866",
+        "pic": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8285073,
+          39.181169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cafe Cito",
+        "street": " 3500 Chestnut Ave",
+        "city": "Baltimore, MD 21211",
+        "link": "http://cafecitobmore.com/",
+        "phone": "(443) 682-9701",
+        "pic": "http://i.imgur.com/KnPqc6o.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6317819,
+          39.3300343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Calabash Tea & Tonic",
+        "street": " 1847 7th St NW",
+        "city": "Washington, DC 20001",
+        "phone": "(202) 525-5386",
+        "link": "http://calabashdc.com/",
+        "pic": "http://i.imgur.com/YFG2PXz.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0239212,
+          38.9152382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Coffee Coffee",
+        "street": " 5 Bel Air South Pkwy",
+        "city": "Bel Air, MD 21015",
+        "phone": "(410) 515-2060",
+        "link": "http://www.coffeecoffee-online.com/",
+        "pic": "http://i.imgur.com/UbWW2Cf.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3285208,
+          39.4958653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Culinary Architecture",
+        "street": " 767 Washington Blvd",
+        "city": "Baltimore, MD 21230",
+        "phone": "(443) 708-8482",
+        "link": "http://culinaryarchitecture.com/",
+        "pic": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6300239,
+          39.2828445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Foundations Island Yoga",
+        "street": "222 shopping center rd",
+        "city": "Chester, MD 21666",
+        "link": "http://www.foundationsislandyoga.com/index.html",
+        "phone": "(410) 490-0440",
+        "pic": "http://i.imgur.com/nbWUFMm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.301928,
+          38.975941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Healthy Grocer",
+        "street": " 3800 Trindle Rd",
+        "city": "Camp Hill, PA 17011",
+        "phone": "(717) 737-5123",
+        "link": "http://www.thehealthygrocer.com/",
+        "pic": "http://i.imgur.com/srMpwjm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9482361,
+          40.2350263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Artifact Coffee",
+        "street": "1500 Union Ave",
+        "city": "Baltimore, MD 21211",
+        "phone": "(410) 235-1881",
+        "link": "http://artifactcoffee.com/",
+        "pic": "http://i.imgur.com/9NRlzfO.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6425039,
+          39.3324058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ridgely Retreat",
+        "street": " 203 Ridgely Ave",
+        "city": "Annapolis, MD 21401",
+        "phone": "(443) 433-0462",
+        "link": "http://www.ridgelyretreat.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5074145,
+          38.9902485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52801513671875,
+          39.14976522028638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.44767761230469,
+          39.12473362566029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.44905090332031,
+          39.1071529333471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.47308349609375,
+          39.103955972576166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60491943359375,
+          39.14230993122815
+        ]
+      }
     }
   ]
 }
