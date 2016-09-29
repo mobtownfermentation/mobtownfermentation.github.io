@@ -274,24 +274,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Garden Plate",
-        "street": "615 N. Wolfe Street 9th Floor",
-        "city": "Baltimore, MD 21205",
-        "pic": "http://i.imgur.com/fsnxszJ.jpg",
-        "link": "http://www.zuppler.com/restaurants/gardenplate",
-        "phone": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.60311698913574,
-          39.305745328509616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Zia's Cafe",
         "street": "13 Allegheny Ave",
         "link": "http://www.ziascafe.com/#about",
@@ -400,24 +382,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Green Onion Market",
-        "street": "5500 Harford Rd",
-        "city": "Baltimore, MD 21214",
-        "phone": "(410) 444-1718",
-        "link": "http://www.greenonionmarket.net/",
-        "pic": "http://i.imgur.com/XsbMAjO.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5638987,
-          39.3524511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Baltimore Yoga Village",
         "street": "3000 Chestnut Ave #15",
         "city": "Baltimore, MD 21211",
@@ -472,24 +436,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Good Life Organic Market",
-        "street": "485 Ritchie Hwy",
-        "city": "Severna Park, MD 21146",
-        "phone": "(410) 544-9515",
-        "link": "http://www.goodlifeorganicmarket.com/retailer/store_templates/shell_id_1.asp?storeID=3F56500F7B9B46A7AF9148AE6A66B159",
-        "pic": "http://i.imgur.com/Z3qjDfU.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5525948,
-          39.0836826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Maggie's Farm",
         "street": "4341 Harford Rd",
         "city": "Baltimore, MD 21214",
@@ -502,24 +448,6 @@
         "coordinates": [
           -76.5746577,
           39.3394321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Grace's Acre",
-        "link": "https://www.facebook.com/Graces-Acre-821042094582856/",
-        "street": "101 N Patterson Park Ave",
-        "city": "Baltimore, MD 21231",
-        "phone": "(410) 276-2601",
-        "pic": "http://i.imgur.com/nstDOyu.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5868579,
-          39.2931459
         ]
       }
     },
@@ -556,24 +484,6 @@
         "coordinates": [
           -76.511862,
           38.961141
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Annapolis Organic Market ",
-        "street": "25 Market Space",
-        "city": "Annapolis, MD 21401",
-        "link": "http://www.yelp.com/biz/annapolis-organic-market-annapolis",
-        "phone": "(443) 714-8426",
-        "pic": "http://i.imgur.com/UbT3wYU.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.489344,
-          38.9778996
         ]
       }
     },
@@ -682,42 +592,6 @@
         "coordinates": [
           -77.0256773,
           38.9165209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "link": "http://www.bullfrogbagels.com/",
-        "title": "Bullfrog Bagels",
-        "street": "1341 H St NE",
-        "city": "Washington, DC 20002",
-        "phone": "(202) 494-5615",
-        "pic": "http://i.imgur.com/5vzJQYc.gif"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9889847,
-          38.8999957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "link": "http://marketriverfalls.com/",
-        "title": "The Market at River Falls",
-        "street": "10124 River Road",
-        "city": "Potomac, MD 20854",
-        "phone": "(301) 765-8001 ",
-        "pic": "http://i.imgur.com/9zD2kfI.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.210704,
-          39.0177629
         ]
       }
     },
@@ -886,24 +760,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Tranquil Space",
-        "street": "1632 17th St NW",
-        "city": "Washington, DC 20009",
-        "phone": "(202) 328-9642",
-        "link": "http://www.tranquilspace.com/",
-        "pic": "http://i.imgur.com/W2LALnt.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0409438,
-          38.9122668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Whole Foods (Harbor East)",
         "street": "1001 Fleet St",
         "city": "Baltimore, MD 21202,",
@@ -958,42 +814,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bare Hills Racquet & Fitness Club",
-        "street": "1420 Clarkview Rd",
-        "city": "Baltimore, MD 21209",
-        "link": "http://www.barehills.com/",
-        "phone": "(410) 823-2500",
-        "pic": "http://i.imgur.com/ZpPcmT7.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6599869,
-          39.3803669
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bear's Honeypot",
-        "street": "MD #, 750 MD-3 #20",
-        "city": "Gambrills, MD 21054",
-        "link": "http://www.thebearshoneypot.com/",
-        "phone": "(410) 987-2418",
-        "pic": "http://i.imgur.com/q8QZ7xg.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6666873,
-          39.0497072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Taps Fill Station",
         "street": "520 Park Ave",
         "city": "Baltimore, MD 21201",
@@ -1006,24 +826,6 @@
         "coordinates": [
           -76.6210166,
           39.2958886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Relay Foods",
-        "link": "https://www.relayfoods.com/",
-        "street": "Pickup locations and contact info ",
-        "city": "on website",
-        "phone": "202-618-6048",
-        "pic": "http://i.imgur.com/rm900k7.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9986766,
-          38.8865877
         ]
       }
     },
@@ -1077,24 +879,6 @@
         "coordinates": [
           -76.5685645,
           39.2767937
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Washington Marriott Georgetown",
-        "street": "1221 22nd St NW",
-        "city": "Washington, DC 20037",
-        "phone": "(202) 872-1500",
-        "link": "http://www.marriott.com/hotels/travel/waswe-washington-marriott-georgetown/",
-        "pic": "http://i.imgur.com/f9L269M.gif"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0507547,
-          38.9060545
         ]
       }
     },
@@ -1317,42 +1101,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Vagabond Sandwich Company",
-        "street": "111 Thomas St",
-        "city": "Bel Air, MD 21014",
-        "phone": "(410) 838-1263",
-        "link": "http://www.vagabondsandwichcompany.com/location.html",
-        "pic": "http://i.imgur.com/8SS5uMy.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.3522986,
-          39.5348804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Good Stuff Eatery",
-        "street": "3291 M St NW",
-        "city": "Washington, DC 20007",
-        "phone": "(202) 337-4663",
-        "link": "http://www.goodstuffeatery.com/locations/georgetown",
-        "pic": "http://i.imgur.com/1PDkEKa.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0679701,
-          38.9053221
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Annebeth's",
         "street": "46 Maryland Ave",
         "city": "Annapolis, MD 21401",
@@ -1365,24 +1113,6 @@
         "coordinates": [
           -76.4917605,
           38.9802579
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Simit + Smith",
-        "street": "1077 Wisconsin Avenue NW",
-        "city": "Washington, DC 20007",
-        "phone": "(202) 758-0553",
-        "link": "http://www.simitandsmith.com/",
-        "pic": "http://i.imgur.com/1Hpa7l8.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0647067,
-          38.904793
         ]
       }
     },
@@ -1419,24 +1149,6 @@
         "coordinates": [
           -76.5927327,
           39.3006619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Evolutions",
-        "street": "1834 George Ave",
-        "city": " Annapolis, MD 21401",
-        "phone": "(410) 224-7220",
-        "link": "http://www.evolutionsannapolis.com/",
-        "pic": "http://i.imgur.com/3YNTJzJ.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5252633,
-          38.9766797
         ]
       }
     },
