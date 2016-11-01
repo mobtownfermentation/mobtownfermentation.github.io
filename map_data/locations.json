@@ -57,42 +57,6 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "title": "Roots Market (Clarksville)",
-        "street": "5805 Clarksville Square Dr",
-        "city": "Clarksville, MD 21029",
-        "phone": "(443) 535-9321",
-        "link": "http://rootsmkt.com/",
-        "pic": "http://i.imgur.com/aKClO5u.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9385779,
-          39.2123658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Roots Market (Olney)",
-        "link": "http://rootsmkt.com/",
-        "pic": "http://i.imgur.com/1fUFdRh.png",
-        "street": "16800 Georgia Ave",
-        "city": "Olney, MD 20832",
-        "phone": "(301) 774-1344"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0716352,
-          39.1318096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -215,24 +179,6 @@
         "phone": "(410) 235-5533",
         "link": "https://www.facebook.com/CommGroundCafe",
         "pic": "http://i.imgur.com/rfefSk0.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.635342,
-          39.33093
-        ]
-      },
-      "properties": {
-        "title": "Your Choice Market",
-        "street": "1200 W 36th St",
-        "city": "Baltimore, MD 21211",
-        "phone": "(410) 235-1159",
-        "link": "https://www.facebook.com/pages/Your-Choice-Market/1507406916208339",
-        "pic": "http://i.imgur.com/J1dhVX1.jpg"
       }
     },
     {
@@ -562,42 +508,6 @@
     {
       "type": "Feature",
       "properties": {
-        "link": "https://www.glensgardenmarket.com/",
-        "title": "Glen's Garden Market (Dupont)",
-        "street": "2001 S Street NW",
-        "city": "Washington, DC 20009",
-        "phone": "(202) 588 5698",
-        "pic": "http://i.imgur.com/swzii6y.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0473747,
-          38.9143517
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "link": "https://www.glensgardenmarket.com/",
-        "title": "Glen's Garden Market (Shaw)",
-        "street": "1924 8th Street NW",
-        "city": "Washington, DC 20001",
-        "phone": "(202) 939 2839",
-        "pic": "http://i.imgur.com/swzii6y.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0256773,
-          38.9165209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Green Valley Market Place (Arnold)",
         "link": "http://greenvalleymarketplace.com/",
         "pic": "http://i.imgur.com/KCXy7op.png",
@@ -670,24 +580,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Graul's Market (Cape St)",
-        "link": "http://www.graulsmarket.com/",
-        "street": "1388 Cape St. Claire Road",
-        "city": "Annapolis, MD 21401",
-        "phone": "(410) 974-0737",
-        "pic": "http://i.imgur.com/djpXTWT.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.4420107,
-          39.0371901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Zeke's Coffee",
         "street": "4607 Harford Rd",
         "city": "Baltimore, MD 21214",
@@ -700,60 +592,6 @@
         "coordinates": [
           -76.5720649,
           39.3421066
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Graul's Market (Mays Chapel)",
-        "street": "12200 Tullamore Road",
-        "city": "Lutherville, MD 21093",
-        "link": "http://www.graulsmarket.com/index.html",
-        "phone": "(410) 308-2100",
-        "pic": "http://i.imgur.com/djpXTWT.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6678113,
-          39.457951
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Graul's Market (Ruxton)",
-        "street": "7713 Bellona Ave.",
-        "city": "Towson, MD 21204",
-        "phone": "(410) 823-6077",
-        "pic": "http://i.imgur.com/djpXTWT.png",
-        "link": "http://www.graulsmarket.com/index.html"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6469881,
-          39.3987773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Gravel & Grind",
-        "street": "124 S Carroll St",
-        "city": "Frederick, MD 21701",
-        "phone": "(301) 682-2651",
-        "link": "http://gravelandgrind.com/",
-        "pic": "http://i.imgur.com/O0uTIRH.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.410055,
-          39.411181
         ]
       }
     },
@@ -796,24 +634,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Baked by Yael",
-        "street": "3000 Connecticut Ave NW",
-        "city": "Washington, DC 20008",
-        "link": "https://bakedbyyael.com/",
-        "phone": "(202) 234-9235",
-        "pic": "http://i.imgur.com/NmGRXlW.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0580263,
-          38.9298321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Taps Fill Station",
         "street": "520 Park Ave",
         "city": "Baltimore, MD 21201",
@@ -844,23 +664,6 @@
         "coordinates": [
           -76.8713386,
           39.1761286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Under Armour Guggenheim Cafe",
-        "street": "2601 Port Covington Dr",
-        "city": "Baltimore, MD 21230",
-        "pic": "http://i.imgur.com/K2aTa0W.png",
-        "phone": "1.888.7-ARMOUR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6099877,
-          39.2600901
         ]
       }
     },
@@ -939,60 +742,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "MOM's (Rockville)",
-        "street": "5566 Randolph Rd",
-        "city": "Rockville, MD 20852",
-        "link": "http://www.momsorganicmarket.com/",
-        "phone": "(301) 816-4944",
-        "pic": "http://i.imgur.com/31nCmS9.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.1144351,
-          39.0528871
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "MOM's (Arlington)",
-        "street": "1901 N Veitch St",
-        "city": "Arlington, VA 22201",
-        "link": "http://www.momsorganicmarket.com/",
-        "phone": "(571) 354-8810",
-        "pic": "http://i.imgur.com/31nCmS9.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0886978,
-          38.8960389
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "MOM's (Woodbridge)",
-        "street": "14470 Smoketown Rd",
-        "city": "Woodbridge, VA 22193",
-        "link": "http://www.momsorganicmarket.com/",
-        "phone": "(571) 398-3043",
-        "pic": "http://i.imgur.com/31nCmS9.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3024731,
-          38.6381562
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Busboys and Poets",
         "street": "5331 Baltimore Ave",
         "city": "Hyattsville, MD 20781",
@@ -1011,24 +760,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "David's Natural Market (Forest Hill)",
-        "street": "1523 Rock Spring Rd",
-        "city": "Forest Hill, MD 21050",
-        "phone": "(410) 836-0808",
-        "link": "http://www.davidsnaturalmarket.com/retailer/store_templates/shell_id_1.asp?storeID=CF1D83C59A914DEEB1F49F78C9BE5747",
-        "pic": "http://i.imgur.com/uHkenhj.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.3726494,
-          39.5613894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "link": "http://www.davidsnaturalmarket.com/retailer/store_templates/shell_id_1.asp?storeID=CF1D83C59A914DEEB1F49F78C9BE5747",
         "title": "David's Natural Market (Gambrills",
         "street": "871 Annapolis Rd",
@@ -1041,42 +772,6 @@
         "coordinates": [
           -76.6713098,
           39.0666814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Firestone's Market on Market",
-        "street": "113 N Market St",
-        "city": "Frederick, MD 21701",
-        "phone": "(301) 696-8586",
-        "link": "http://www.firestonesmarket.com/",
-        "pic": "http://i.imgur.com/MszzzJi.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.4129574,
-          39.4157402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Independent Brewing Company",
-        "street": "418 N Main St",
-        "city": "Bel Air, MD 21014",
-        "phone": "(410) 836-8313",
-        "link": "https://www.independentbrew.com/",
-        "pic": "http://i.imgur.com/XQk8W3I.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.3586034,
-          39.5399864
         ]
       }
     },
@@ -1155,24 +850,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Everlasting Life",
-        "street": "9185 Central Ave",
-        "city": "Capitol Heights, MD 20743",
-        "phone": "(301) 324-6900",
-        "link": "http://www.eliferestaurant.com/",
-        "pic": "http://i.imgur.com/9cNudDZ.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8510685,
-          38.976492485539396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "The Natural Market  ",
         "street": "2149 York Rd",
         "city": "Timonium, MD 21093",
@@ -1203,24 +880,6 @@
         "coordinates": [
           -78.28857421875,
           39.232253141714885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Whole Foods (Foggy Bottom)",
-        "street": "2201 I St NW",
-        "city": "Washington, DC 20037",
-        "link": "http://www.wholefoodsmarket.com/stores/foggybottom?s=GWU",
-        "phone": "(202) 296-1660",
-        "pic": "http://i.imgur.com/y8OtyEf.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.49044799804688,
-          39.28010491220614
         ]
       }
     },
