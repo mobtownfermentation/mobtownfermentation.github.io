@@ -999,7 +999,7 @@
         "city": "Baltimore, MD 21230",
         "phone": "(443) 708-8482",
         "link": "http://culinaryarchitecture.com/",
-        "pic": ""
+        "pic": "http://i.imgur.com/YSnF2i1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1070,7 +1070,8 @@
         "street": " 203 Ridgely Ave",
         "city": "Annapolis, MD 21401",
         "phone": "(443) 433-0462",
-        "link": "http://www.ridgelyretreat.com/"
+        "link": "http://www.ridgelyretreat.com/",
+        "pic": "http://i.imgur.com/RNgNSHr.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1246,8 +1247,11 @@
       "type": "Feature",
       "properties": {
         "title": "Gourmet Again",
-        "street": "",
-        "link": ""
+        "street": "3713 Old Ct Rd",
+        "link": "http://www.gourmetagain.com/",
+        "city": "Pikesville, MD 21208",
+        "phone": "(410) 484-9393",
+        "pic": "http://i.imgur.com/V4ferWo.gif"
       },
       "geometry": {
         "type": "Point",
@@ -1264,7 +1268,7 @@
         "link": "http://www.loyola.edu/department/dining",
         "street": "100 W Cold Spring Ln",
         "city": "Baltimore, MD 21210",
-        "phone": "410-617-2985",
+        "phone": "(410) 617-2985 ",
         "pic": "http://i.imgur.com/pbDmueC.png"
       },
       "geometry": {
@@ -1335,7 +1339,7 @@
         "title": "Rutabaga",
         "street": "116 Annapolis St",
         "city": "Annapolis, MD 21401",
-        "phone": " (410) 267-0261",
+        "phone": "(410) 267-0261",
         "link": "http://www.rutabagajuicery.com/",
         "pic": "http://i.imgur.com/a8GIZEd.jpg"
       },
@@ -1350,7 +1354,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ""
+        "title": "Takorean (Union Market)",
+        "link": "http://takorean.com/",
+        "street": "1309 5th St NE",
+        "city": "Washington, DC 20002",
+        "phone": "(202)544-1113",
+        "pic": "http://i.imgur.com/jPF3b5i.png"
       },
       "geometry": {
         "type": "Point",
@@ -1364,7 +1373,11 @@
       "type": "Feature",
       "properties": {
         "title": "TaKorean (National Place)",
-        "street": ""
+        "street": "13th & F Street NW",
+        "city": "Washington, DC 20004",
+        "link": "http://takorean.com/",
+        "pic": "http://i.imgur.com/jPF3b5i.png",
+        "phone": "(202) 347-3300"
       },
       "geometry": {
         "type": "Point",
@@ -1377,7 +1390,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": ""
+        "title": "Takorean (The Yards)",
+        "link": "http://takorean.com/",
+        "street": "1212 4th Street SE",
+        "city": "Washington, DC 20003",
+        "pic": "http://i.imgur.com/jPF3b5i.png",
+        "phone": "(202) 484-0505"
       },
       "geometry": {
         "type": "Point",
