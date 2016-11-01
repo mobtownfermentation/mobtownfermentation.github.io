@@ -1169,6 +1169,234 @@
           39.14230993122815
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MOM's (Timonium)",
+        "street": "20 W Ridgely Rd",
+        "city": "Lutherville-Timonium, MD 21093",
+        "phone": "(443) 921-1390",
+        "link": "https://momsorganicmarket.com/",
+        "pic": "http://i.imgur.com/31nCmS9.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57470703125,
+          41.13729606112276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Takoma Park Coop",
+        "street": "201 Ethan Allen Ave",
+        "city": "Takoma Park, MD 20912",
+        "phone": "(301) 891-2667",
+        "link": "http://tpss.coop/",
+        "pic": "http://i.imgur.com/cOiMqjw.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.95947265625,
+          41.57436130598913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Earth Treks (Timonium)",
+        "street": "1930 Greenspring Dr",
+        "city": " Lutherville-Timonium, MD 21093",
+        "link": "https://www.earthtreksclimbing.com/md-va/timonium/",
+        "phone": "(410) 560-5665",
+        "pic": "http://i.imgur.com/7ASjQ28.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48681640625,
+          41.590796851056005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fox & Fern Cafe",
+        "street": "1521 Rock Spring Rd",
+        "city": "Forest Hill, MD 21050",
+        "phone": "(410) 638-9161",
+        "link": "http://www.foxandfern.com/",
+        "pic": "http://i.imgur.com/IqW7OTY.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.17919921875,
+          41.41801503608024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gourmet Again",
+        "street": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.871337890625,
+          41.590796851056005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iggy's Market",
+        "link": "http://www.loyola.edu/department/dining",
+        "street": "100 W Cold Spring Ln",
+        "city": "Baltimore, MD 21210",
+        "phone": "410-617-2985",
+        "pic": "http://i.imgur.com/pbDmueC.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.640625,
+          41.92680320648791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maryland Food Collective",
+        "street": "3301 Campus Dr B0203",
+        "city": "College Park, MD 20742",
+        "phone": "(301) 314-8089",
+        "link": "http://www.mdfood.coop/",
+        "pic": "http://i.imgur.com/CapwDSz.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3330078125,
+          41.96765920367816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "More Than Java Cafe",
+        "street": "358 Main St",
+        "city": "Laurel, MD 20707",
+        "phone": "(301) 490-3200",
+        "link": "http://www.morethanjavacafe.com/",
+        "pic": "http://i.imgur.com/7phD1Tj.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.95947265625,
+          41.92680320648791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "phone": "(443) 341-6166",
+        "title": "Rooster + Hen",
+        "street": "2302 Frederick Rd",
+        "link": "http://www.roosterandhenstore.com/",
+        "pic": "http://i.imgur.com/HJ6Hqjx.png",
+        "city": "Catonsville, MD 21228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01416015625,
+          41.89409955811395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rutabaga",
+        "street": "116 Annapolis St",
+        "city": "Annapolis, MD 21401",
+        "phone": " (410) 267-0261",
+        "link": "http://www.rutabagajuicery.com/",
+        "pic": "http://i.imgur.com/a8GIZEd.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.190185546875,
+          41.75492216766298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.156982421875,
+          41.672911819602085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "TaKorean (National Place)",
+        "street": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.83563232421875,
+          41.91045347666418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.83151245117188,
+          41.870583462266836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85623168945312,
+          41.86035637336661
+        ]
+      }
     }
   ]
 }
