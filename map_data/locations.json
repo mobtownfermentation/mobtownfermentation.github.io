@@ -400,24 +400,6 @@
     {
       "type": "Feature",
       "properties": {
-        "street": "5410 Lynx Ln",
-        "city": "Columbia, MD 21044",
-        "link": "http://www.davidsnaturalmarket.com/retailer/store_templates/shell_id_1.asp?storeID=CF1D83C59A914DEEB1F49F78C9BE5747",
-        "title": "David's Natural Market",
-        "phone": "(410) 730-2304",
-        "pic": "http://i.imgur.com/uHkenhj.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8776023,
-          39.2209851
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Ruah Yoga Studio",
         "link": "https://ruahstudio.com/",
         "street": "1410 Forest Dr #9",
@@ -670,24 +652,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Atwaters (Canton)",
-        "street": "3601 Boston street",
-        "city": "Baltimore, Maryland 21224",
-        "link": "http://www.atwaters.biz/shops/canton/",
-        "phone": "667-309-7146",
-        "pic": "http://i.imgur.com/tJzVapO.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5685645,
-          39.2767937
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Yoga Tree",
         "street": "911 W 36th St",
         "city": "911 W 36th St",
@@ -698,7 +662,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.6339943,
+          -76.6339996,
           39.3308572
         ]
       }
@@ -788,7 +752,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.6488187,
+          -76.648824,
           39.5334743
         ]
       }
