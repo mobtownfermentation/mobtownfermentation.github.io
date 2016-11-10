@@ -1202,8 +1202,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.17919921875,
-          41.41801503608024
+          -76.3733388,
+          39.5608678
         ]
       }
     },
@@ -1366,6 +1366,24 @@
         "coordinates": [
           -76.83151245117188,
           41.870583462266836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SoBo Market",
+        "street": "13 E Randall St",
+        "city": "Baltimore, MD 21230",
+        "phone": "(410) 685-6605",
+        "link": "http://sobomarket.com/",
+        "pic": "http://i.imgur.com/3TPn6y6.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.615758,
+          39.271379
         ]
       }
     }
