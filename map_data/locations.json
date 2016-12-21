@@ -1386,6 +1386,240 @@
           39.271379
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dream Yoga Studio and Wellness Center",
+        "street": "1485 Chain Bridge Rd # 104",
+        "city": "McLean, VA 22101",
+        "phone": "(703) 448-9642",
+        "link": "http://www.dreamyogastudio.com/main.html",
+        "pic": "http://i.imgur.com/8pAVj2p.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1825761,
+          38.9296441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MOM's (Arlington)",
+        "street": " 1901 N Veitch St",
+        "city": "Arlington, VA 22201",
+        "phone": "(571) 354-8810",
+        "link": "https://momsorganicmarket.com/",
+        "pic": "http://i.imgur.com/31nCmS9.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0883817,
+          38.8964124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MOM's (Rockville)",
+        "link": "https://momsorganicmarket.com/",
+        "street": "5566 Randolph Rd",
+        "city": "Rockville, MD 20852",
+        "phone": "(301) 816-4944",
+        "pic": "http://i.imgur.com/31nCmS9.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1144404,
+          39.0528871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roots Market (Clarksville)",
+        "link": "http://rootsmkt.com/",
+        "street": "5805 Clarksville Square Dr",
+        "city": "Clarksville, MD 21029",
+        "phone": "(443) 535-9321",
+        "pic": "http://i.imgur.com/1fUFdRh.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9409487,
+          39.2124263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pic": "http://i.imgur.com/1fUFdRh.png",
+        "title": "Roots Market (Olney)",
+        "link": "http://rootsmkt.com/",
+        "street": "16800 Georgia Ave",
+        "city": "Olney, MD 20832",
+        "phone": "(301) 774-1344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0738292,
+          39.1318096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Order & Chaos Coffee",
+        "link": "http://orderchaoscoffee.com/",
+        "street": "1410 Key Hwy",
+        "city": "Baltimore, MD 21230",
+        "phone": "(410) 244-1111",
+        "pic": "http://i.imgur.com/xkXdWTR.gifv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6050077,
+          39.2733449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baby's On Fire",
+        "link": "http://www.babysonfire.com/",
+        "street": "1010 Morton St",
+        "city": "Baltimore, MD 21201",
+        "phone": "(443) 885-9892",
+        "pic": "http://i.imgur.com/gNZGTUO.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6190863,
+          39.3015277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bird in Hand",
+        "link": "https://birdinhandcharlesvillage.com/",
+        "street": "11 E 33rd St,",
+        "city": "Baltimore, MD 21218",
+        "phone": "(410) 243-0757",
+        "pic": "http://i.imgur.com/Ci2L9rZ.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6188162,
+          39.3281205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bullfrog Bagels (7th Street)",
+        "link": "http://www.bullfrogbagels.com/",
+        "street": "317 7th St SE",
+        "city": "Washington, DC 20003",
+        "phone": "(202) 494-2609",
+        "pic": "http://i.imgur.com/5vzJQYc.gif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9985777,
+          38.8855964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bullfrog Bagels (H Street)",
+        "street": "1341 H St NE",
+        "city": "Washington, DC 20002",
+        "phone": "(202) 494-2609",
+        "link": "http://www.bullfrogbagels.com/",
+        "pic": "http://i.imgur.com/5vzJQYc.gif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98899,
+          38.8999915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Streets Market and Cafe (4th Street)",
+        "link": "http://streetsmarketcafe.com/",
+        "street": "2400 14th St NW",
+        "city": "Washington, DC 20009",
+        "phone": "(202) 265-3300",
+        "pic": "http://i.imgur.com/DSlVGHG.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0344898,
+          38.9207311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Streets Market and Cafe (Charles St)",
+        "street": "222 N Charles St",
+        "link": "http://streetsmarketcafe.com/",
+        "city": "Baltimore, MD 21201",
+        "phone": "(667) 930-3405",
+        "pic": "http://i.imgur.com/DSlVGHG.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.618017,
+          39.291975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Two Boots Baltimore",
+        "link": "http://twoboots.com/",
+        "street": "1203 W Mt Royal Ave",
+        "city": "Baltimore, MD 21217",
+        "phone": "(410) 625-2668",
+        "pic": "http://i.imgur.com/s4P9tXt.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6217277,
+          39.3067974
+        ]
+      }
     }
   ]
 }
