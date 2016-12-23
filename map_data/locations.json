@@ -1620,6 +1620,222 @@
           39.3067974
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Capital City Cheesecake",
+        "street": "7071 Carroll Ave",
+        "city": "Takoma Park, MD 20912",
+        "link": " capitalcitycheesecakes.com",
+        "phone": "(301) 270-7260",
+        "pic": "http://i.imgur.com/ngALHtG.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.011639,
+          38.975059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Greenbelt Co-op Supermarket ",
+        "street": "121 Centerway",
+        "city": "Greenbelt, MD 20770",
+        "phone": "(301) 474-0522",
+        "link": "http://www.greenbelt.coop/cms/",
+        "pic": "http://i.imgur.com/MKb6dEU.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8783827,
+          39.0018405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street": "2810 Remington Ave",
+        "title": "Ground & Griddled",
+        "phone": "(443) 681-1901",
+        "city": "Baltimore, MD 21211",
+        "link": "http://www.gandgbmore.com/",
+        "pic": "http://i.imgur.com/12yOZ24.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6237851,
+          39.3214849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jack and Zach Food",
+        "pic": "http://i.imgur.com/sc0KLro.jpg",
+        "street": "333 N Charles St,",
+        "city": "Baltimore, MD 21201",
+        "link": "https://www.facebook.com/Jack-Zach-Food-138567942836944/",
+        "phone": "(443) 435-7647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6172852,
+          39.293618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Koba Cafe",
+        "street": "644 E Fort Ave",
+        "city": "Baltimore, MD 21230",
+        "link": "https://www.facebook.com/KOBACAFEBaltimore/",
+        "phone": "(410) 986-0366",
+        "pic": "http://i.imgur.com/k7P0B3n.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6062712,
+          39.272823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lilit Cafe",
+        "street": "7921 Old Georgetown Rd",
+        "city": "Bethesda, MD 20814",
+        "phone": "(301) 654-5454",
+        "link": "http://www.lilitcafe.com/",
+        "pic": "http://i.imgur.com/F8IlfA7.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1028142,
+          38.9888604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mom's (White Marsh)",
+        "street": "5267 Campbell Blvd.",
+        "city": "White Marsh, MD 21236",
+        "link": "https://momsorganicmarket.com/",
+        "phone": "(443) 461-2033",
+        "pic": "http://i.imgur.com/31nCmS9.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4549853,
+          39.368888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MOM's (Woodbridge)",
+        "street": "14470 Smoketown Rd",
+        "city": "Woodbridge, VA 22193",
+        "phone": "(571) 398-3043",
+        "link": "https://momsorganicmarket.com/",
+        "pic": "http://i.imgur.com/31nCmS9.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3024784,
+          38.6381562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "New Deal Cafe",
+        "street": "113 Centerway",
+        "city": "Greenbelt, MD 20770",
+        "phone": "(301) 474-5642",
+        "link": "http://www.newdealcafe.com/",
+        "pic": "http://www.newdealcafe.com/_images/ndc-logo-new.gif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8791779,
+          39.001372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "RoofTop HoT Local & Organic Market",
+        "street": "339 S Conkling St",
+        "city": "Baltimore, MD 21224",
+        "phone": "(240) 731-5240",
+        "link": "http://rooftophot.com/urban-farming/",
+        "pic": "http://i.imgur.com/neG20o1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5692264,
+          39.2877548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vigilante Coffee",
+        "street": "4327 Gallatin St",
+        "city": "Hyattsville, MD 20781",
+        "link": "http://vigilantecoffee.com/",
+        "phone": "(301) 200-3110",
+        "pic": "http://i.imgur.com/5d47Wwl.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94309,
+          38.952445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Health Concern",
+        "street": " 4318 Fitch Ave",
+        "city": "Nottingham, MD 21236",
+        "link": "https://m.facebook.com/thehealthconcern",
+        "phone": "(410) 828-4015",
+        "pic": "https://s3-media3.fl.yelpcdn.com/bphoto/56St30NJLpexOfR3GQ_ijQ/ls.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.508448,
+          39.370684
+        ]
+      }
     }
   ]
 }
