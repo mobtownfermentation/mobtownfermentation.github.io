@@ -647,13 +647,13 @@ a#Contact-Mobtown.subNavBtn.active {
     float:left;
     border:0px solid orange;
 }
-form{
+#formContainer form{
     position:relative;
     width:100%;
     float:left;
     border:0px solid blue;
 }
-form label{
+#formContainer form label{
     float:left;
     min-width:45px;
     width:20%;
@@ -663,7 +663,7 @@ form label{
     font-size:20px;
     margin:3px 0;
 }
-form input, form textarea{
+#formContainer form input, #formContainer form textarea{
     float:left;
     margin:3px 5px;
     width:70%;
@@ -672,11 +672,11 @@ form input, form textarea{
     border-radius:2px;
     padding-left:5px;
 }
-form textarea{
+#formContainer form textarea{
 	resize:none;
     height:120px;
 }
-form input[type="submit"]{
+#formContainer form input[type="submit"]{
     width:30%;
     margin:3px 40%;
     display:none;

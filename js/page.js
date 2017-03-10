@@ -189,7 +189,7 @@ $('[name="_next"]').val(urlBase);
 
 
 //mobile scrolling
-$("#mobileMenu li").on("click", function(event) { 
+$("#mobileMenu li").on("click", function(event) {
     var link = $(this).children();
     var sec = $(link).attr('href').substr(1);
     var offset = $("."+sec).offset().top-40;
@@ -200,16 +200,16 @@ $("#mobileMenu li").on("click", function(event) {
 $(window).on("scroll", function(e){
     $('body,html').bind("scroll mousedown DOMMouseScroll mousewheel keyup", function(e){
     if ( e.which > 0 || e.type === "mousedown" || e.type === "mousewheel"){
-         $('body,html').stop().unbind('scroll mousedown DOMMouseScroll mousewheel keyup'); 
+         $('body,html').stop().unbind('scroll mousedown DOMMouseScroll mousewheel keyup');
         }
     });
 });
 
 $(window).on('resize', function () {
-	var w = $(window).width();
-	if(w>800){
-		location.reload();
-	}
+	// var w = $(window).width();
+	// if(w>800){
+	// 	location.reload();
+	// }
 });
 
 //flavor hover
